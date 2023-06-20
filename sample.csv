@@ -1,0 +1,2000 @@
+﻿Zip Code,Patient Id,Wellness Visits Count,PAP Smear Test Count,Cholestrol Test Count,HIV Test Done,Diabetes Test Count,Age,Gender,Count of Target Physicians,County Ranking,Rural,Insurance
+8010,1001,1,0,3,1,0,42,Male,0,16,Urban,Medicaid
+7470,1002,0,1,2,0,3,30,Female,0,6,Rural ,Commercial
+7716,1003,3,2,2,1,0,29,Female,2,10,Rural ,Medicaid
+7006,1004,1,2,2,1,1,44,Female,0,3,Rural ,Medicaid
+8065,1005,1,0,0,0,3,27,Female,1,16,Rural ,Medicaid
+7506,1006,3,2,2,0,0,33,Male,4,6,Rural ,Medicaid
+8107,1007,0,3,0,0,0,27,Female,3,14,Rural ,Commercial
+8619,1008,0,3,1,0,0,44,Female,0,21,Urban,Medicaid
+8012,1009,3,3,0,0,3,31,Female,2,14,Urban,Commercial
+8075,1010,3,0,3,0,1,34,Male,3,16,Urban,Commercial
+8007,1011,0,3,2,0,1,27,Female,4,14,Urban,Commercial
+8869,1012,2,0,2,0,0,34,Female,5,8,Urban,Commercial
+8740,1013,0,3,3,0,1,29,Male,2,15,Urban,Medicaid
+8028,1014,2,2,1,0,1,33,Male,4,17,Urban,Medicaid
+8650,1015,0,1,3,1,3,29,Female,0,21,Rural ,Medicaid
+8553,1016,2,1,2,1,3,28,Male,1,8,Urban,Commercial
+8352,1017,0,2,2,1,1,38,Male,5,20,Rural ,Commercial
+7440,1018,3,3,1,1,0,45,Male,1,4,Urban,Medicaid
+8730,1019,2,3,1,0,2,36,Male,0,10,Rural ,Medicaid
+7052,1020,1,3,0,1,3,31,Female,3,3,Rural ,Commercial
+8218,1021,3,0,3,0,1,40,Female,2,19,Urban,Commercial
+7656,1022,1,0,2,0,0,36,Female,1,5,Urban,Medicaid
+7095,1023,0,3,0,0,0,30,Female,3,1,Urban,Medicaid
+7733,1024,1,1,1,0,2,38,Male,3,10,Rural ,Medicaid
+8314,1025,2,0,2,0,2,30,Male,0,20,Urban,Commercial
+8836,1026,3,0,2,1,0,38,Female,5,8,Urban,Commercial
+7308,1027,0,1,0,0,0,43,Female,4,2,Urban,Commercial
+7407,1028,0,1,3,0,2,32,Female,5,5,Rural ,Commercial
+8246,1029,0,1,2,0,2,39,Male,3,19,Urban,Medicaid
+8360,1030,1,2,3,0,1,32,Male,2,20,Rural ,Commercial
+8201,1031,2,2,0,0,0,36,Female,2,18,Urban,Commercial
+8086,1032,1,1,2,1,3,35,Male,2,17,Urban,Commercial
+8352,1033,0,2,3,1,3,30,Female,0,20,Rural ,Medicaid
+7401,1034,3,2,1,0,0,37,Male,0,5,Urban,Medicaid
+8072,1035,3,3,2,0,3,33,Male,2,13,Urban,Commercial
+7206,1036,2,2,3,0,3,42,Male,3,7,Rural ,Medicaid
+8821,1037,2,0,3,1,1,39,Female,5,8,Urban,Commercial
+7746,1038,0,3,2,0,0,27,Male,4,10,Rural ,Medicaid
+8046,1039,3,3,3,1,3,38,Female,3,16,Rural ,Commercial
+8555,1040,0,3,0,1,0,37,Female,4,10,Rural ,Medicaid
+8032,1041,3,1,2,1,2,45,Male,2,17,Urban,Medicaid
+8330,1042,3,3,1,0,0,38,Male,2,18,Urban,Medicaid
+8535,1043,0,0,2,1,1,40,Male,0,10,Rural ,Commercial
+7452,1044,1,3,2,0,0,44,Female,1,5,Rural ,Medicaid
+8518,1045,1,1,3,0,1,39,Female,3,16,Urban,Commercial
+7627,1046,2,3,2,0,1,30,Female,5,5,Urban,Medicaid
+7930,1047,2,2,3,0,3,37,Male,5,4,Rural ,Medicaid
+8049,1048,3,0,0,0,0,38,Male,1,14,Urban,Commercial
+7840,1049,2,1,3,0,1,35,Female,0,11,Urban,Medicaid
+8823,1050,3,3,3,1,1,27,Female,5,8,Urban,Commercial
+8097,1051,2,1,1,0,2,27,Female,1,17,Urban,Commercial
+7820,1052,0,3,0,1,2,34,Male,4,11,Rural ,Commercial
+7108,1053,2,2,2,0,0,28,Female,5,3,Rural ,Commercial
+8858,1054,1,3,3,0,3,34,Female,0,12,Rural ,Commercial
+8543,1055,3,3,0,1,2,39,Female,3,21,Rural ,Commercial
+8220,1056,2,2,2,0,3,31,Male,0,18,Urban,Medicaid
+8084,1057,3,2,2,1,3,31,Male,2,14,Urban,Commercial
+7715,1058,1,3,1,1,1,42,Male,4,10,Urban,Commercial
+7836,1059,1,0,1,0,0,27,Female,0,4,Rural ,Commercial
+7603,1060,1,0,0,0,1,36,Male,5,5,Rural ,Medicaid
+7647,1061,1,1,0,1,3,39,Male,2,5,Urban,Medicaid
+8850,1062,3,3,3,1,1,37,Male,1,1,Urban,Medicaid
+7077,1063,3,1,2,0,1,29,Female,3,1,Urban,Commercial
+8085,1064,1,2,1,1,3,31,Male,1,17,Urban,Commercial
+8036,1065,1,2,1,1,2,41,Male,2,16,Rural ,Commercial
+7701,1066,3,1,3,0,1,33,Male,2,10,Rural ,Commercial
+8096,1067,1,0,3,1,3,28,Male,5,17,Rural ,Medicaid
+7750,1068,0,0,3,0,3,43,Female,4,10,Urban,Medicaid
+7751,1069,2,2,2,0,1,41,Female,0,10,Rural ,Commercial
+7822,1070,3,3,2,1,3,27,Male,3,9,Urban,Medicaid
+8014,1071,3,0,1,0,0,41,Male,4,17,Rural ,Commercial
+7018,1072,1,1,3,1,3,43,Male,3,3,Urban,Medicaid
+7931,1073,1,0,1,0,3,42,Female,3,8,Urban,Commercial
+7870,1074,3,2,1,1,0,32,Male,4,4,Rural ,Commercial
+7070,1075,0,3,2,0,3,45,Female,2,5,Rural ,Medicaid
+7480,1076,2,2,2,0,3,44,Male,3,6,Rural ,Commercial
+7734,1077,0,0,1,1,2,44,Female,5,10,Urban,Commercial
+7710,1078,0,2,0,1,3,39,Female,4,10,Rural ,Commercial
+8001,1079,2,0,3,0,3,27,Female,1,13,Urban,Medicaid
+7509,1080,1,2,1,1,0,41,Male,1,6,Rural ,Commercial
+8405,1081,1,1,1,0,3,41,Female,0,18,Urban,Medicaid
+8629,1082,1,3,2,1,1,29,Female,1,21,Urban,Commercial
+8045,1083,0,0,1,0,3,34,Female,2,14,Urban,Commercial
+7064,1084,0,2,1,0,0,40,Female,5,1,Rural ,Medicaid
+8607,1085,2,3,2,1,0,33,Female,1,21,Urban,Commercial
+7920,1086,2,3,3,1,2,40,Female,3,8,Urban,Medicaid
+7007,1087,0,0,2,1,1,38,Male,1,3,Urban,Medicaid
+8648,1088,0,2,2,1,0,33,Male,4,21,Urban,Medicaid
+7036,1089,2,1,1,0,2,41,Female,3,7,Urban,Commercial
+7939,1090,2,2,0,1,2,36,Female,2,8,Urban,Commercial
+8518,1091,0,1,3,1,1,38,Male,1,16,Rural ,Commercial
+8003,1092,0,1,3,1,3,29,Female,0,14,Urban,Medicaid
+7660,1093,1,3,3,1,1,32,Male,4,5,Rural ,Commercial
+7732,1094,2,0,3,0,1,31,Male,3,10,Urban,Medicaid
+7101,1095,1,0,3,1,0,38,Female,0,3,Urban,Commercial
+7869,1096,0,2,3,0,0,32,Female,2,4,Urban,Commercial
+7075,1097,2,1,0,1,3,42,Female,4,5,Rural ,Medicaid
+7875,1098,3,2,0,0,2,29,Female,3,9,Urban,Medicaid
+8342,1099,3,1,1,0,0,28,Female,3,18,Rural ,Commercial
+8724,1100,1,0,3,1,1,41,Male,3,15,Rural ,Medicaid
+7882,1101,0,1,1,1,2,36,Female,4,11,Rural ,Medicaid
+7522,1102,2,2,0,1,3,39,Female,2,6,Rural ,Commercial
+8835,1103,1,3,0,0,3,29,Male,2,8,Rural ,Medicaid
+8066,1104,0,1,2,1,2,36,Male,2,17,Urban,Medicaid
+7603,1105,2,2,1,0,1,34,Female,3,5,Rural ,Commercial
+7855,1106,2,1,3,0,2,30,Female,3,9,Urban,Medicaid
+8025,1107,2,2,1,1,2,40,Male,3,17,Rural ,Medicaid
+7950,1108,0,1,2,1,2,42,Male,0,4,Rural ,Commercial
+7012,1109,1,0,0,1,1,36,Female,4,6,Urban,Commercial
+8027,1110,3,0,2,0,0,44,Male,2,17,Urban,Commercial
+8010,1111,3,0,0,0,3,44,Male,4,16,Rural ,Medicaid
+8403,1112,3,1,2,1,0,34,Male,5,18,Urban,Medicaid
+7656,1113,2,2,3,1,2,37,Female,0,5,Urban,Medicaid
+8809,1114,3,1,3,1,3,41,Female,1,12,Urban,Commercial
+8225,1115,2,0,1,0,3,36,Male,0,18,Rural ,Commercial
+7630,1116,0,0,1,1,1,41,Female,2,5,Urban,Medicaid
+8701,1117,0,0,2,1,1,44,Male,5,15,Rural ,Medicaid
+8015,1118,1,1,2,1,1,36,Female,1,16,Urban,Medicaid
+8066,1119,1,3,2,1,3,44,Male,1,17,Urban,Commercial
+8620,1120,2,1,0,1,2,37,Male,1,21,Urban,Medicaid
+7474,1121,2,2,3,0,0,41,Male,0,6,Urban,Medicaid
+8606,1122,0,2,3,0,2,44,Male,3,21,Urban,Commercial
+8215,1123,3,2,0,1,1,34,Male,5,18,Rural ,Commercial
+7451,1124,2,0,2,1,0,29,Male,2,5,Urban,Commercial
+7631,1125,2,0,2,1,0,37,Female,2,5,Rural ,Medicaid
+8625,1126,2,3,3,1,3,28,Female,3,21,Urban,Commercial
+7073,1127,3,3,0,1,3,36,Male,4,5,Urban,Commercial
+8824,1128,0,0,2,1,3,33,Male,1,1,Rural ,Medicaid
+7504,1129,0,0,2,1,2,31,Female,5,6,Rural ,Commercial
+8248,1130,3,3,1,0,3,45,Female,1,19,Urban,Medicaid
+8534,1131,1,1,3,0,3,34,Male,1,21,Urban,Medicaid
+8640,1132,0,2,0,1,2,41,Male,0,16,Rural ,Commercial
+7003,1133,3,2,0,1,0,38,Male,1,3,Urban,Commercial
+7980,1134,3,2,1,1,1,43,Female,1,4,Urban,Commercial
+8349,1135,3,2,3,0,2,38,Female,3,20,Rural ,Commercial
+8820,1136,3,3,2,1,1,40,Male,3,1,Urban,Medicaid
+7401,1137,1,3,1,0,0,44,Male,5,5,Rural ,Medicaid
+7803,1138,1,3,1,1,3,30,Female,3,4,Rural ,Medicaid
+7460,1139,0,3,1,1,0,31,Male,3,9,Rural ,Commercial
+7102,1140,0,2,2,0,3,29,Female,4,3,Rural ,Medicaid
+8023,1141,3,1,3,1,2,39,Male,5,13,Rural ,Medicaid
+8989,1142,1,2,0,1,3,40,Male,5,1,Rural ,Medicaid
+7099,1143,3,2,2,1,0,44,Male,1,2,Rural ,Commercial
+8361,1144,3,0,1,0,2,28,Female,3,20,Rural ,Commercial
+8510,1145,2,1,3,0,1,34,Male,0,10,Rural ,Medicaid
+8221,1146,2,3,0,0,2,45,Male,4,18,Rural ,Medicaid
+8039,1147,1,2,2,1,1,40,Male,0,17,Urban,Medicaid
+8525,1148,2,1,2,1,2,40,Female,1,21,Urban,Medicaid
+7821,1149,0,3,1,1,0,32,Female,1,9,Rural ,Commercial
+8226,1150,2,2,3,1,1,42,Male,0,19,Rural ,Commercial
+8109,1151,1,0,1,1,3,28,Female,1,14,Rural ,Commercial
+7058,1152,3,2,1,0,3,28,Female,1,4,Rural ,Commercial
+7732,1153,3,1,0,1,0,35,Female,0,10,Urban,Medicaid
+7017,1154,3,2,0,1,2,32,Male,4,3,Rural ,Commercial
+7108,1155,0,2,2,0,0,39,Female,2,3,Urban,Commercial
+7082,1156,1,0,1,1,3,31,Male,3,4,Rural ,Commercial
+7675,1157,3,0,3,1,0,31,Male,0,5,Urban,Commercial
+7204,1158,2,2,2,0,0,32,Female,3,7,Rural ,Commercial
+7311,1159,0,0,0,1,0,31,Female,4,2,Urban,Commercial
+7843,1160,2,0,2,1,0,43,Female,2,9,Rural ,Commercial
+7052,1161,3,0,1,0,1,28,Female,3,3,Rural ,Commercial
+8039,1162,3,2,3,1,3,28,Female,4,17,Rural ,Medicaid
+8754,1163,1,1,1,1,3,38,Female,2,15,Urban,Medicaid
+8501,1164,0,2,3,0,0,41,Male,0,10,Urban,Commercial
+8605,1165,1,0,3,1,3,41,Female,2,21,Rural ,Commercial
+7755,1166,1,1,3,0,1,32,Male,1,10,Rural ,Commercial
+8561,1167,0,0,1,1,1,34,Male,5,21,Rural ,Commercial
+8015,1168,1,0,0,0,1,28,Male,2,16,Rural ,Medicaid
+8601,1169,3,2,0,0,0,30,Male,3,21,Urban,Medicaid
+7424,1170,0,2,3,0,2,38,Male,1,6,Urban,Medicaid
+7963,1171,2,0,0,1,0,38,Female,5,4,Urban,Commercial
+7748,1172,3,3,2,0,1,27,Male,1,10,Rural ,Medicaid
+7825,1173,0,1,2,1,2,32,Female,2,11,Urban,Medicaid
+7114,1174,2,2,2,0,3,35,Male,0,3,Urban,Commercial
+7039,1175,0,0,0,1,1,28,Male,2,3,Urban,Commercial
+8011,1176,2,2,2,1,1,33,Female,3,16,Urban,Commercial
+8736,1177,2,3,2,1,0,29,Male,2,10,Urban,Medicaid
+7105,1178,2,1,3,1,2,29,Female,2,3,Urban,Medicaid
+7039,1179,2,0,2,0,0,40,Male,4,3,Urban,Commercial
+8872,1180,0,0,2,0,3,34,Female,4,1,Urban,Medicaid
+8853,1181,2,0,0,0,2,42,Male,2,8,Urban,Commercial
+7057,1182,1,1,1,0,2,29,Male,3,5,Rural ,Medicaid
+8317,1183,0,0,3,0,0,42,Female,5,18,Urban,Medicaid
+8001,1184,1,0,2,1,3,30,Male,5,13,Urban,Commercial
+8759,1185,1,2,0,0,3,33,Male,4,15,Urban,Medicaid
+8085,1186,0,2,2,0,2,39,Male,2,17,Rural ,Medicaid
+7648,1187,0,1,0,1,2,40,Male,2,5,Urban,Medicaid
+8042,1188,0,1,2,1,0,29,Male,3,16,Rural ,Medicaid
+8903,1189,1,3,3,1,0,39,Male,2,1,Urban,Commercial
+7010,1190,1,3,1,0,0,39,Female,2,5,Urban,Commercial
+8031,1191,1,0,2,1,0,35,Male,3,14,Urban,Commercial
+8821,1192,0,0,0,1,3,32,Female,5,8,Urban,Medicaid
+7094,1193,1,1,1,1,3,36,Female,2,2,Urban,Commercial
+8518,1194,1,2,3,1,0,44,Male,4,16,Rural ,Commercial
+8820,1195,2,0,3,1,1,42,Male,3,1,Rural ,Commercial
+8212,1196,1,3,1,1,1,34,Female,1,19,Urban,Commercial
+7018,1197,1,3,2,1,3,39,Female,0,3,Rural ,Medicaid
+7097,1198,3,2,0,1,0,30,Female,1,2,Rural ,Commercial
+7730,1199,1,2,0,1,2,37,Female,0,10,Urban,Commercial
+8361,1200,0,2,1,0,3,39,Female,3,20,Urban,Medicaid
+8828,1201,1,3,0,0,3,40,Male,2,1,Rural ,Medicaid
+7505,1202,3,0,1,0,3,40,Male,0,6,Urban,Commercial
+7421,1203,0,3,0,0,1,38,Female,5,6,Rural ,Medicaid
+8556,1204,0,3,2,0,0,29,Male,1,12,Rural ,Commercial
+8230,1205,2,0,2,0,0,36,Male,1,19,Rural ,Medicaid
+8097,1206,3,0,2,0,1,40,Male,4,17,Rural ,Commercial
+7716,1207,0,2,3,0,2,41,Female,5,10,Urban,Commercial
+7842,1208,2,2,1,1,3,44,Female,2,4,Rural ,Medicaid
+7207,1209,2,3,3,0,2,36,Male,1,7,Urban,Commercial
+8210,1210,0,2,1,1,3,30,Male,0,19,Urban,Commercial
+8650,1211,2,2,3,0,3,38,Male,1,21,Rural ,Commercial
+7028,1212,0,0,1,1,2,28,Female,1,3,Rural ,Medicaid
+7099,1213,1,2,3,1,1,30,Male,2,2,Rural ,Medicaid
+8857,1214,0,1,3,0,2,27,Female,2,1,Rural ,Medicaid
+8855,1215,3,0,3,1,1,40,Female,3,1,Urban,Medicaid
+7732,1216,2,1,0,0,3,36,Male,0,10,Rural ,Medicaid
+8401,1217,2,0,0,0,3,27,Female,2,18,Urban,Commercial
+8721,1218,2,0,1,0,2,37,Male,2,15,Rural ,Medicaid
+8027,1219,3,2,3,0,1,43,Male,4,17,Rural ,Commercial
+7060,1220,1,2,2,1,1,32,Male,2,7,Urban,Medicaid
+7753,1221,2,2,2,0,1,42,Female,3,10,Urban,Medicaid
+7439,1222,3,2,3,1,2,43,Male,1,9,Rural ,Commercial
+7666,1223,1,3,1,0,2,39,Male,3,5,Urban,Commercial
+7303,1224,2,2,2,0,1,42,Male,4,2,Urban,Medicaid
+7645,1225,0,3,3,1,2,29,Female,4,5,Urban,Medicaid
+7627,1226,2,1,0,0,0,45,Female,5,5,Rural ,Commercial
+8302,1227,1,0,1,1,2,34,Male,3,20,Urban,Medicaid
+8828,1228,0,2,3,0,3,28,Male,3,1,Urban,Commercial
+8553,1229,2,3,0,1,2,27,Male,4,8,Urban,Commercial
+7452,1230,3,3,3,1,2,35,Male,3,5,Rural ,Medicaid
+8053,1231,0,1,2,0,1,35,Female,0,16,Urban,Medicaid
+7040,1232,0,1,0,0,1,28,Male,4,3,Urban,Commercial
+8906,1233,1,0,0,1,2,39,Male,2,1,Urban,Medicaid
+8861,1234,3,1,2,0,1,38,Male,0,1,Rural ,Medicaid
+8097,1235,0,1,0,0,0,37,Female,2,17,Rural ,Medicaid
+8807,1236,0,0,3,1,2,45,Male,1,8,Urban,Commercial
+8025,1237,2,2,2,0,0,40,Male,4,17,Rural ,Commercial
+8544,1238,2,1,3,0,2,44,Male,4,21,Rural ,Commercial
+8884,1239,0,2,2,0,2,41,Male,4,1,Rural ,Medicaid
+8341,1240,0,3,0,1,3,38,Male,1,18,Rural ,Medicaid
+8346,1241,0,0,2,0,2,38,Female,4,18,Rural ,Medicaid
+8820,1242,0,1,2,1,1,27,Female,4,1,Rural ,Medicaid
+8608,1243,1,2,1,1,2,30,Female,5,21,Urban,Medicaid
+7799,1244,0,2,0,1,2,31,Male,4,10,Rural ,Medicaid
+7710,1245,0,0,1,0,1,43,Male,2,10,Urban,Medicaid
+7403,1246,1,1,3,0,3,44,Male,4,6,Urban,Commercial
+8064,1247,2,1,1,1,2,42,Female,4,16,Rural ,Medicaid
+7543,1248,0,0,3,1,0,29,Female,3,6,Rural ,Medicaid
+8270,1249,1,2,3,0,2,28,Male,1,19,Rural ,Medicaid
+8107,1250,0,1,1,0,2,42,Female,1,14,Urban,Medicaid
+7712,1251,1,2,3,0,0,33,Male,0,10,Urban,Medicaid
+7703,1252,2,3,0,1,1,38,Female,1,10,Rural ,Medicaid
+8721,1253,0,2,0,1,1,45,Male,4,15,Rural ,Commercial
+8106,1254,2,2,2,1,0,40,Female,5,14,Rural ,Medicaid
+7946,1255,2,1,1,1,1,44,Male,1,4,Rural ,Commercial
+8215,1256,2,1,0,1,1,42,Female,2,18,Urban,Medicaid
+7974,1257,3,1,0,0,1,30,Male,5,7,Urban,Medicaid
+8824,1258,0,0,3,0,1,29,Male,1,1,Urban,Medicaid
+8518,1259,0,3,0,1,1,41,Female,2,16,Rural ,Medicaid
+8750,1260,0,2,1,1,0,36,Male,4,10,Urban,Medicaid
+8061,1261,1,2,0,0,1,37,Female,1,17,Urban,Commercial
+8821,1262,0,1,3,0,1,40,Male,1,8,Urban,Medicaid
+7822,1263,2,3,0,1,3,31,Female,0,9,Urban,Medicaid
+8201,1264,3,2,1,0,0,37,Female,2,18,Rural ,Commercial
+7188,1265,0,0,3,1,1,40,Female,3,3,Urban,Commercial
+7198,1266,3,3,2,1,2,28,Male,0,3,Rural ,Medicaid
+8873,1267,0,1,0,0,1,41,Male,3,8,Rural ,Commercial
+7603,1268,3,2,1,1,3,39,Female,2,5,Rural ,Commercial
+7828,1269,1,2,0,0,2,28,Female,0,4,Rural ,Medicaid
+7307,1270,2,0,1,1,3,37,Female,5,2,Rural ,Medicaid
+7034,1271,2,3,2,1,2,45,Female,5,4,Rural ,Commercial
+7880,1272,2,2,0,1,1,28,Female,5,11,Rural ,Commercial
+7067,1273,2,3,1,1,3,35,Female,5,1,Urban,Commercial
+7082,1274,0,1,3,0,3,30,Male,5,4,Urban,Commercial
+7632,1275,3,2,0,1,1,31,Female,5,5,Rural ,Medicaid
+7735,1276,2,2,0,1,1,36,Male,0,10,Rural ,Commercial
+7806,1277,1,2,0,0,3,35,Male,3,4,Rural ,Medicaid
+8608,1278,3,3,0,0,2,29,Male,0,21,Urban,Medicaid
+7044,1279,1,0,2,1,2,32,Female,3,3,Rural ,Medicaid
+7538,1280,0,1,2,0,3,27,Female,4,6,Rural ,Medicaid
+8014,1281,0,0,3,1,0,45,Male,5,17,Urban,Commercial
+7083,1282,0,2,3,0,3,39,Male,5,7,Urban,Medicaid
+8695,1283,1,0,1,0,0,30,Female,0,21,Rural ,Medicaid
+7881,1284,1,3,0,0,1,35,Female,1,9,Urban,Medicaid
+7880,1285,0,1,2,1,0,41,Female,5,11,Rural ,Commercial
+7308,1286,3,0,2,1,2,32,Female,5,2,Rural ,Commercial
+8824,1287,1,0,0,0,0,44,Male,0,1,Urban,Commercial
+7920,1288,2,1,2,0,0,38,Male,0,8,Urban,Medicaid
+7083,1289,2,2,0,1,3,45,Male,4,7,Urban,Medicaid
+8603,1290,0,3,2,0,3,37,Female,0,21,Rural ,Medicaid
+7440,1291,0,0,1,0,3,45,Female,2,4,Rural ,Commercial
+7860,1292,0,3,3,0,0,33,Male,3,9,Urban,Medicaid
+7410,1293,2,2,2,1,0,27,Male,3,5,Urban,Commercial
+8816,1294,0,3,2,0,0,40,Female,2,1,Urban,Commercial
+8403,1295,0,2,2,1,1,36,Male,5,18,Rural ,Commercial
+7512,1296,2,1,3,0,1,29,Female,4,6,Rural ,Commercial
+8038,1297,0,0,2,0,2,33,Female,4,13,Rural ,Commercial
+8022,1298,2,1,1,1,2,35,Male,2,16,Rural ,Medicaid
+7424,1299,1,0,0,1,0,41,Male,5,6,Urban,Commercial
+8043,1300,3,2,3,1,0,44,Male,2,14,Rural ,Commercial
+8514,1301,3,0,2,1,2,33,Male,1,10,Urban,Medicaid
+7648,1302,3,0,1,1,2,41,Male,1,5,Urban,Commercial
+8212,1303,1,3,2,1,2,42,Female,3,19,Rural ,Commercial
+8722,1304,1,2,0,1,1,45,Male,2,15,Rural ,Commercial
+7091,1305,2,2,2,0,2,30,Male,5,7,Urban,Medicaid
+7189,1306,3,2,3,0,2,44,Male,0,3,Rural ,Medicaid
+8098,1307,2,2,3,1,3,33,Male,3,13,Rural ,Medicaid
+8620,1308,0,2,0,1,2,29,Female,2,21,Urban,Medicaid
+7043,1309,1,2,0,1,2,28,Male,0,3,Urban,Commercial
+8602,1310,3,0,3,0,1,29,Male,2,21,Rural ,Commercial
+7758,1311,2,1,0,0,1,42,Male,0,10,Urban,Commercial
+7857,1312,2,1,3,1,0,34,Male,1,4,Rural ,Commercial
+8323,1313,2,3,0,1,1,34,Female,2,20,Urban,Commercial
+8075,1314,2,3,0,0,3,44,Female,5,16,Rural ,Medicaid
+7097,1315,3,1,0,1,1,27,Female,0,2,Urban,Medicaid
+7071,1316,1,3,3,0,1,30,Female,4,5,Rural ,Commercial
+7860,1317,2,1,3,1,3,32,Male,0,9,Rural ,Medicaid
+8007,1318,3,2,2,1,3,44,Female,3,14,Urban,Commercial
+8260,1319,2,2,3,0,1,43,Female,5,19,Urban,Commercial
+8846,1320,3,1,1,0,2,27,Male,0,1,Urban,Medicaid
+8512,1321,3,3,0,1,2,45,Male,2,1,Rural ,Medicaid
+7503,1322,0,2,2,1,3,31,Female,5,6,Rural ,Commercial
+7878,1323,0,0,1,1,1,34,Female,1,4,Urban,Commercial
+8890,1324,0,0,3,1,3,33,Male,0,8,Urban,Medicaid
+8620,1325,2,0,1,0,0,28,Male,3,21,Rural ,Medicaid
+8807,1326,1,2,3,0,2,40,Male,3,8,Urban,Commercial
+7648,1327,3,1,2,0,2,39,Male,3,5,Rural ,Commercial
+8012,1328,3,1,0,1,3,39,Male,0,14,Urban,Commercial
+8872,1329,3,3,2,1,0,40,Male,1,1,Rural ,Medicaid
+8504,1330,0,1,1,1,2,34,Female,0,8,Rural ,Commercial
+8859,1331,3,3,2,1,3,42,Male,3,1,Rural ,Medicaid
+7091,1332,3,1,1,1,0,31,Female,1,7,Rural ,Medicaid
+7306,1333,2,3,0,1,1,37,Male,2,2,Urban,Commercial
+8402,1334,0,2,0,1,2,33,Female,0,18,Urban,Medicaid
+8053,1335,0,2,1,1,2,43,Male,3,16,Urban,Medicaid
+7978,1336,3,1,2,0,1,38,Male,2,8,Urban,Medicaid
+8088,1337,1,1,0,0,0,44,Male,0,16,Rural ,Commercial
+7109,1338,0,3,2,1,0,41,Male,2,3,Rural ,Commercial
+8353,1339,1,1,2,1,0,31,Male,1,20,Rural ,Medicaid
+7204,1340,1,1,1,0,0,45,Female,2,7,Rural ,Commercial
+7652,1341,2,1,3,0,3,44,Female,0,5,Rural ,Commercial
+8344,1342,0,1,2,0,0,34,Male,5,17,Rural ,Commercial
+7675,1343,3,1,3,1,1,40,Female,3,5,Rural ,Medicaid
+8556,1344,1,3,1,0,2,36,Male,0,12,Rural ,Commercial
+7603,1345,0,0,3,1,2,37,Male,0,5,Rural ,Commercial
+8403,1346,1,2,0,1,0,28,Male,0,18,Rural ,Medicaid
+8401,1347,3,3,3,1,3,31,Male,5,18,Rural ,Commercial
+7726,1348,2,1,3,1,0,43,Female,3,10,Rural ,Commercial
+8094,1349,1,3,3,0,3,31,Male,5,17,Urban,Medicaid
+8618,1350,2,1,0,0,3,35,Male,0,21,Rural ,Commercial
+7512,1351,0,1,0,1,1,32,Female,0,6,Urban,Medicaid
+8646,1352,2,3,2,1,1,35,Male,0,21,Urban,Commercial
+8330,1353,2,0,3,0,3,36,Male,4,18,Rural ,Medicaid
+7399,1354,1,3,3,1,0,37,Female,4,2,Rural ,Commercial
+8057,1355,2,0,0,1,2,35,Female,0,16,Rural ,Medicaid
+7762,1356,3,2,3,1,1,41,Female,5,10,Rural ,Medicaid
+7303,1357,3,3,3,1,0,29,Male,5,2,Urban,Commercial
+7976,1358,3,0,2,0,3,28,Male,5,4,Rural ,Medicaid
+7730,1359,1,0,2,1,2,28,Female,3,10,Urban,Medicaid
+7733,1360,0,0,0,1,0,39,Female,0,10,Rural ,Commercial
+7731,1361,1,3,3,0,3,37,Female,5,10,Urban,Medicaid
+8023,1362,3,2,3,0,1,34,Female,5,13,Rural ,Commercial
+7855,1363,2,3,1,0,1,39,Female,5,9,Rural ,Medicaid
+7643,1364,3,2,2,1,0,35,Female,4,5,Urban,Medicaid
+8865,1365,1,0,0,1,2,28,Male,2,11,Rural ,Medicaid
+7853,1366,0,2,1,0,0,31,Male,0,4,Rural ,Commercial
+7726,1367,3,0,1,1,0,39,Female,5,10,Rural ,Commercial
+7078,1368,2,2,2,1,2,36,Male,1,3,Urban,Medicaid
+7802,1369,2,3,1,0,0,33,Male,5,4,Rural ,Commercial
+8006,1370,3,0,1,0,0,33,Male,4,15,Urban,Commercial
+7044,1371,2,3,0,0,2,36,Male,4,3,Rural ,Commercial
+8105,1372,2,3,1,0,2,37,Male,4,14,Urban,Commercial
+8629,1373,0,2,2,1,3,28,Male,2,21,Rural ,Medicaid
+8903,1374,0,1,0,1,0,43,Female,3,1,Urban,Commercial
+8554,1375,1,0,0,1,2,38,Female,2,16,Urban,Commercial
+8611,1376,3,2,0,0,1,45,Male,1,21,Rural ,Medicaid
+7739,1377,2,1,2,1,0,31,Male,4,10,Urban,Commercial
+8248,1378,2,1,1,1,2,28,Male,3,19,Rural ,Commercial
+7935,1379,3,2,3,1,2,31,Male,2,4,Urban,Commercial
+8009,1380,0,1,0,0,2,42,Female,5,14,Rural ,Medicaid
+8321,1381,3,1,1,0,2,36,Female,2,20,Urban,Commercial
+7932,1382,1,3,2,0,0,27,Male,1,4,Rural ,Medicaid
+7438,1383,0,1,3,0,2,29,Male,5,4,Urban,Medicaid
+7082,1384,1,1,1,1,3,35,Male,0,4,Rural ,Medicaid
+7108,1385,0,1,2,1,2,45,Male,3,3,Urban,Commercial
+7647,1386,2,0,2,1,2,36,Male,2,5,Rural ,Medicaid
+8812,1387,3,2,2,1,3,37,Female,0,8,Urban,Commercial
+8731,1388,1,0,2,1,2,40,Male,0,15,Urban,Commercial
+8902,1389,1,3,2,0,3,45,Female,0,1,Rural ,Commercial
+8072,1390,1,1,1,0,2,37,Female,3,13,Rural ,Commercial
+7438,1391,3,3,3,0,2,45,Male,4,4,Rural ,Medicaid
+7863,1392,2,3,2,1,2,29,Female,3,11,Rural ,Medicaid
+7006,1393,2,1,3,0,1,35,Male,4,3,Rural ,Medicaid
+7430,1394,0,2,2,1,0,34,Male,5,5,Rural ,Medicaid
+7063,1395,2,1,2,1,3,28,Male,5,8,Urban,Commercial
+7601,1396,3,3,2,0,0,29,Male,0,5,Rural ,Medicaid
+8723,1397,2,0,2,1,0,36,Female,5,15,Urban,Commercial
+7522,1398,1,1,1,1,3,35,Male,3,6,Urban,Commercial
+7058,1399,0,1,3,1,3,36,Female,0,4,Urban,Medicaid
+7726,1400,2,3,3,0,0,43,Male,1,10,Urban,Medicaid
+8731,1401,0,0,0,1,3,34,Female,2,15,Urban,Commercial
+7837,1402,3,1,0,1,1,40,Male,2,9,Urban,Medicaid
+8823,1403,2,0,0,0,2,38,Female,5,8,Rural ,Commercial
+7660,1404,3,0,3,0,1,30,Male,5,5,Urban,Commercial
+8559,1405,2,2,0,0,3,34,Male,2,12,Rural ,Medicaid
+8079,1406,0,2,0,0,2,45,Male,3,13,Rural ,Medicaid
+8078,1407,2,2,3,1,2,43,Female,1,14,Urban,Commercial
+7112,1408,0,0,3,0,3,34,Female,5,3,Urban,Medicaid
+7656,1409,3,1,1,1,3,29,Female,0,5,Urban,Commercial
+8245,1410,3,3,0,1,0,43,Female,2,19,Urban,Medicaid
+8009,1411,3,0,3,1,0,37,Female,3,14,Rural ,Commercial
+8037,1412,1,2,0,0,2,30,Male,0,18,Rural ,Medicaid
+7877,1413,0,2,2,1,0,39,Female,2,9,Rural ,Medicaid
+7974,1414,1,1,3,0,0,27,Female,3,7,Urban,Commercial
+7421,1415,3,0,2,0,1,31,Male,5,6,Urban,Medicaid
+7801,1416,0,3,3,0,1,27,Female,2,4,Rural ,Commercial
+7308,1417,1,1,0,1,3,32,Female,4,2,Urban,Medicaid
+7513,1418,1,2,3,0,0,38,Female,2,6,Rural ,Commercial
+8068,1419,2,0,1,0,2,35,Female,0,16,Rural ,Commercial
+8889,1420,3,0,2,0,1,27,Female,5,12,Urban,Commercial
+7420,1421,2,3,2,1,2,45,Female,2,6,Rural ,Commercial
+7074,1422,3,3,3,1,2,38,Female,1,5,Rural ,Commercial
+8025,1423,1,3,0,1,2,30,Male,4,17,Urban,Commercial
+8060,1424,1,0,0,1,1,37,Female,5,16,Urban,Commercial
+7881,1425,0,1,1,1,2,37,Male,5,9,Urban,Commercial
+8805,1426,1,3,3,0,1,38,Male,1,8,Urban,Commercial
+8742,1427,2,3,1,1,1,38,Female,0,15,Urban,Medicaid
+8362,1428,0,3,0,0,1,37,Female,4,20,Urban,Commercial
+7921,1429,0,1,2,1,2,40,Male,1,8,Urban,Medicaid
+7628,1430,0,3,3,0,1,42,Male,3,5,Urban,Commercial
+8647,1431,1,1,1,0,3,32,Female,1,21,Urban,Commercial
+7012,1432,2,0,2,1,3,29,Male,1,6,Urban,Commercial
+7510,1433,1,0,3,0,3,45,Male,5,6,Rural ,Commercial
+8057,1434,0,2,3,0,1,30,Female,5,16,Urban,Commercial
+7921,1435,0,1,1,0,2,43,Male,0,8,Urban,Medicaid
+7509,1436,0,1,0,1,3,39,Female,2,6,Rural ,Commercial
+7935,1437,2,0,3,1,2,39,Male,4,4,Urban,Commercial
+8025,1438,0,1,3,1,2,40,Female,5,17,Rural ,Commercial
+8065,1439,3,1,1,1,1,43,Male,0,16,Rural ,Medicaid
+7856,1440,0,2,2,1,1,42,Male,2,4,Urban,Commercial
+8758,1441,1,1,1,0,3,40,Male,3,15,Rural ,Medicaid
+8311,1442,3,0,3,0,1,41,Female,5,20,Rural ,Medicaid
+7303,1443,0,3,3,0,3,36,Female,2,2,Urban,Commercial
+7871,1444,2,2,0,1,3,37,Female,4,9,Urban,Medicaid
+7844,1445,1,3,2,1,3,33,Male,1,11,Urban,Commercial
+7902,1446,2,2,3,1,0,36,Female,3,7,Rural ,Medicaid
+8742,1447,1,2,2,0,1,35,Male,2,15,Urban,Medicaid
+7603,1448,0,3,3,0,1,27,Male,2,5,Rural ,Medicaid
+8323,1449,0,1,0,1,0,35,Female,2,20,Urban,Medicaid
+7754,1450,3,2,3,0,2,32,Female,5,10,Rural ,Commercial
+7420,1451,2,2,2,0,1,27,Female,2,6,Urban,Commercial
+8890,1452,0,1,2,0,3,37,Male,3,8,Rural ,Medicaid
+7065,1453,3,0,0,0,1,29,Male,3,7,Rural ,Medicaid
+7935,1454,3,0,3,1,0,30,Female,3,4,Urban,Medicaid
+7026,1455,2,0,1,1,0,36,Female,3,5,Rural ,Commercial
+8518,1456,3,3,1,0,2,37,Female,1,16,Rural ,Commercial
+7715,1457,2,1,1,0,3,29,Male,4,10,Rural ,Commercial
+8034,1458,3,2,0,1,1,28,Male,1,14,Rural ,Commercial
+8604,1459,0,0,1,1,3,38,Male,2,21,Rural ,Commercial
+7632,1460,3,1,2,1,2,45,Male,1,5,Urban,Medicaid
+7656,1461,3,1,2,0,1,38,Male,2,5,Urban,Medicaid
+7852,1462,1,0,0,1,3,27,Male,4,4,Rural ,Commercial
+8095,1463,1,1,2,0,3,38,Male,1,14,Urban,Medicaid
+8231,1464,0,3,0,0,0,45,Male,5,18,Rural ,Medicaid
+8319,1465,1,2,2,1,0,45,Female,3,18,Urban,Medicaid
+8087,1466,3,1,0,0,1,38,Female,4,15,Urban,Commercial
+8533,1467,1,2,2,1,1,42,Male,3,15,Urban,Medicaid
+8903,1468,3,1,3,0,1,39,Female,0,1,Urban,Commercial
+7890,1469,3,3,0,1,3,39,Male,5,9,Urban,Commercial
+8076,1470,2,3,1,0,2,44,Female,3,16,Urban,Commercial
+8876,1471,0,1,3,1,3,30,Male,5,8,Rural ,Commercial
+7052,1472,2,1,1,1,3,37,Male,2,3,Urban,Medicaid
+7970,1473,1,3,2,0,3,38,Male,1,4,Urban,Medicaid
+8872,1474,2,1,1,1,1,28,Male,1,1,Urban,Commercial
+7852,1475,0,0,0,1,1,35,Female,3,4,Urban,Medicaid
+8829,1476,0,2,0,0,0,45,Female,1,12,Urban,Commercial
+8089,1477,0,0,0,0,0,36,Female,0,14,Urban,Medicaid
+8212,1478,1,1,1,0,1,31,Female,4,19,Urban,Commercial
+8320,1479,0,0,2,0,2,44,Female,0,20,Urban,Medicaid
+8833,1480,1,3,2,0,0,30,Female,0,12,Urban,Medicaid
+7058,1481,0,3,0,0,1,40,Male,0,4,Urban,Medicaid
+8731,1482,2,2,2,1,0,32,Male,4,15,Rural ,Medicaid
+7001,1483,0,1,0,0,0,42,Female,2,1,Rural ,Commercial
+7175,1484,3,3,2,1,3,45,Male,5,3,Rural ,Commercial
+8561,1485,0,3,2,0,2,30,Male,2,21,Urban,Commercial
+7104,1486,3,2,3,1,0,38,Female,4,3,Urban,Commercial
+7950,1487,2,2,3,0,3,32,Male,2,4,Urban,Medicaid
+7024,1488,2,3,0,1,2,40,Female,2,5,Rural ,Medicaid
+8553,1489,3,2,3,1,0,29,Male,1,8,Rural ,Commercial
+7458,1490,1,3,3,1,1,32,Male,1,5,Rural ,Commercial
+8755,1491,2,1,1,0,3,27,Male,3,15,Urban,Commercial
+7064,1492,3,2,0,0,3,27,Female,0,1,Rural ,Medicaid
+8315,1493,1,0,2,0,2,27,Female,2,20,Urban,Medicaid
+8311,1494,1,3,2,0,2,36,Female,4,20,Urban,Commercial
+8753,1495,0,2,3,0,1,28,Female,2,15,Rural ,Commercial
+7435,1496,3,1,2,1,1,27,Female,0,6,Urban,Medicaid
+8036,1497,3,2,3,0,0,41,Female,1,16,Rural ,Commercial
+7533,1498,1,1,3,0,2,34,Male,4,6,Urban,Medicaid
+7837,1499,2,2,0,1,1,39,Female,0,9,Rural ,Commercial
+7874,1500,0,3,3,1,0,32,Female,4,9,Rural ,Medicaid
+7399,1501,0,3,1,1,2,38,Male,3,2,Urban,Commercial
+7646,1502,3,0,3,1,2,30,Female,4,5,Urban,Commercial
+7458,1503,3,1,0,0,2,38,Female,4,5,Urban,Medicaid
+8648,1504,3,1,3,0,3,37,Female,4,21,Urban,Commercial
+7631,1505,2,3,1,1,3,36,Male,2,5,Urban,Medicaid
+7871,1506,1,0,3,1,0,42,Male,1,9,Rural ,Medicaid
+8022,1507,3,0,3,0,3,28,Male,3,16,Urban,Commercial
+8607,1508,1,3,1,1,2,35,Male,0,21,Urban,Commercial
+8314,1509,1,2,0,1,1,44,Male,2,20,Urban,Commercial
+7801,1510,1,1,0,0,3,39,Male,3,4,Urban,Commercial
+7620,1511,1,0,0,0,0,29,Male,1,5,Rural ,Medicaid
+7847,1512,2,2,3,0,2,28,Female,1,4,Urban,Commercial
+7191,1513,1,2,2,0,2,28,Female,2,3,Rural ,Commercial
+8026,1514,3,2,0,1,2,45,Male,5,14,Urban,Medicaid
+7420,1515,3,3,2,0,1,45,Female,1,6,Rural ,Medicaid
+7012,1516,1,3,2,0,2,32,Male,4,6,Urban,Medicaid
+8820,1517,2,1,3,1,3,34,Female,0,1,Urban,Medicaid
+8031,1518,1,3,0,0,1,45,Male,4,14,Rural ,Commercial
+8092,1519,1,0,1,0,0,29,Male,1,15,Urban,Medicaid
+7718,1520,2,3,2,0,3,42,Female,2,10,Rural ,Medicaid
+7640,1521,1,3,0,1,0,39,Male,1,5,Rural ,Commercial
+8311,1522,2,2,1,1,1,44,Female,5,20,Urban,Medicaid
+7607,1523,0,1,2,0,0,31,Female,3,5,Urban,Medicaid
+7878,1524,2,1,1,0,2,31,Female,0,4,Urban,Medicaid
+7801,1525,3,2,3,1,2,28,Female,5,4,Rural ,Medicaid
+8888,1526,0,1,3,0,3,33,Female,1,12,Rural ,Medicaid
+8836,1527,1,0,2,1,1,39,Male,1,8,Urban,Commercial
+7458,1528,0,0,2,1,1,31,Female,1,5,Urban,Commercial
+7946,1529,3,2,3,0,0,32,Male,0,4,Urban,Commercial
+8701,1530,3,1,2,0,1,38,Female,3,15,Urban,Medicaid
+7462,1531,1,3,2,0,2,42,Female,4,9,Rural ,Medicaid
+8619,1532,2,1,2,0,1,28,Female,5,21,Rural ,Medicaid
+7762,1533,0,2,1,1,1,36,Male,5,10,Rural ,Medicaid
+7756,1534,2,0,1,0,1,34,Female,4,10,Rural ,Commercial
+8078,1535,0,0,0,1,1,33,Female,2,14,Urban,Commercial
+7052,1536,0,2,3,0,1,30,Male,5,3,Urban,Commercial
+7504,1537,2,2,3,1,1,30,Male,2,6,Urban,Commercial
+8666,1538,3,1,2,0,1,28,Female,3,21,Rural ,Commercial
+7439,1539,1,0,0,0,1,39,Female,3,9,Urban,Commercial
+7839,1540,3,1,1,0,3,30,Female,1,9,Rural ,Medicaid
+7821,1541,1,0,1,0,2,36,Female,3,9,Urban,Medicaid
+8751,1542,2,0,0,1,3,45,Male,5,15,Rural ,Commercial
+8620,1543,0,3,3,1,2,28,Male,3,21,Rural ,Medicaid
+8048,1544,1,1,2,0,3,41,Male,4,16,Urban,Commercial
+7641,1545,0,2,0,1,0,45,Male,1,5,Rural ,Commercial
+8324,1546,3,2,2,0,0,36,Male,3,20,Urban,Commercial
+7960,1547,0,1,0,0,2,28,Male,4,4,Rural ,Medicaid
+8695,1548,0,0,1,1,0,33,Male,5,21,Urban,Commercial
+7704,1549,3,1,2,1,3,29,Female,3,10,Urban,Commercial
+7712,1550,0,0,0,0,3,43,Male,2,10,Rural ,Commercial
+7114,1551,3,0,1,1,0,43,Male,0,3,Rural ,Medicaid
+7191,1552,1,3,1,1,2,39,Female,2,3,Urban,Medicaid
+8844,1553,0,0,1,0,2,43,Female,0,8,Urban,Medicaid
+7924,1554,3,1,2,0,1,28,Female,4,8,Urban,Commercial
+7514,1555,1,1,0,1,3,39,Female,2,6,Rural ,Commercial
+8721,1556,0,2,0,1,0,28,Male,0,15,Rural ,Commercial
+8536,1557,2,3,0,0,3,38,Male,3,1,Urban,Medicaid
+7936,1558,0,3,3,1,1,31,Female,1,4,Urban,Medicaid
+7004,1559,3,3,1,1,0,34,Female,2,3,Urban,Commercial
+7099,1560,2,1,3,0,3,43,Female,0,2,Urban,Commercial
+8753,1561,1,3,0,0,0,43,Male,3,15,Urban,Commercial
+8606,1562,0,3,0,0,2,40,Male,4,21,Rural ,Commercial
+8751,1563,2,0,1,1,1,43,Female,1,15,Urban,Commercial
+8638,1564,3,2,2,0,2,30,Male,4,21,Urban,Medicaid
+7014,1565,1,1,0,0,1,37,Male,3,6,Rural ,Medicaid
+7842,1566,1,3,0,1,3,39,Male,0,4,Urban,Commercial
+8755,1567,1,3,1,1,3,44,Female,4,15,Urban,Medicaid
+7068,1568,1,1,3,0,2,30,Male,4,3,Rural ,Commercial
+8046,1569,0,1,1,0,1,28,Male,0,16,Urban,Commercial
+7765,1570,2,1,2,0,3,36,Female,0,10,Rural ,Medicaid
+7848,1571,3,3,0,1,1,43,Male,4,9,Rural ,Medicaid
+7628,1572,1,2,1,1,0,34,Male,1,5,Urban,Medicaid
+8733,1573,2,2,0,0,0,42,Male,1,15,Rural ,Commercial
+7716,1574,3,2,3,1,3,36,Male,2,10,Urban,Commercial
+7825,1575,3,1,0,0,3,39,Male,0,11,Rural ,Medicaid
+7717,1576,0,0,0,1,0,38,Female,0,10,Urban,Commercial
+7430,1577,0,0,0,0,1,37,Female,2,5,Rural ,Commercial
+7666,1578,0,3,0,1,2,27,Female,0,5,Urban,Commercial
+8803,1579,1,2,0,1,1,35,Male,2,12,Rural ,Medicaid
+8204,1580,0,1,0,1,2,36,Male,2,19,Urban,Commercial
+8315,1581,2,2,3,0,1,36,Male,3,20,Urban,Commercial
+7105,1582,0,2,1,0,1,27,Female,3,3,Rural ,Medicaid
+7715,1583,1,2,2,0,1,43,Female,4,10,Rural ,Medicaid
+8625,1584,0,1,2,1,3,44,Male,5,21,Urban,Medicaid
+7417,1585,3,1,0,0,1,38,Female,4,5,Rural ,Medicaid
+7627,1586,1,0,0,1,0,44,Female,3,5,Urban,Medicaid
+8081,1587,2,3,2,0,3,43,Male,5,14,Urban,Medicaid
+7650,1588,3,0,1,1,0,30,Male,2,5,Rural ,Commercial
+8077,1589,3,3,2,0,1,33,Female,1,16,Rural ,Commercial
+7764,1590,1,3,1,0,1,31,Female,3,10,Urban,Medicaid
+7739,1591,0,0,1,1,1,30,Female,4,10,Urban,Medicaid
+7030,1592,3,0,1,1,2,35,Female,2,2,Rural ,Commercial
+7086,1593,1,1,1,1,3,44,Male,2,2,Urban,Commercial
+8219,1594,2,1,2,1,2,44,Female,4,19,Rural ,Commercial
+7045,1595,2,1,0,0,2,34,Female,3,4,Urban,Commercial
+8807,1596,2,3,1,1,1,31,Female,0,8,Urban,Commercial
+8248,1597,2,3,2,0,3,28,Male,1,19,Rural ,Medicaid
+7876,1598,2,2,1,1,0,29,Female,0,4,Rural ,Medicaid
+8899,1599,1,1,3,0,1,43,Female,0,1,Urban,Medicaid
+7480,1600,0,3,3,1,2,32,Male,4,6,Urban,Commercial
+8886,1601,2,3,2,1,0,29,Female,1,11,Rural ,Commercial
+8321,1602,0,0,0,1,3,32,Male,5,20,Rural ,Medicaid
+8640,1603,0,1,0,0,1,27,Male,5,16,Rural ,Medicaid
+7207,1604,1,0,0,0,2,33,Female,5,7,Urban,Commercial
+8690,1605,2,0,1,1,1,37,Female,1,21,Rural ,Commercial
+7031,1606,1,0,2,0,1,30,Female,3,5,Urban,Medicaid
+8870,1607,2,0,2,1,2,42,Female,0,12,Urban,Commercial
+7481,1608,3,0,1,1,0,40,Female,4,5,Rural ,Medicaid
+7901,1609,3,0,1,1,0,37,Female,1,7,Urban,Commercial
+8724,1610,0,1,0,0,0,32,Male,5,15,Urban,Medicaid
+8219,1611,3,0,3,0,1,31,Female,2,19,Rural ,Commercial
+7628,1612,2,3,0,1,1,44,Female,4,5,Rural ,Medicaid
+7544,1613,2,2,1,1,1,33,Male,3,6,Urban,Commercial
+8816,1614,0,1,1,1,2,30,Female,5,1,Urban,Medicaid
+8081,1615,1,2,3,1,3,27,Male,0,14,Rural ,Commercial
+7970,1616,3,0,0,0,2,34,Female,5,4,Rural ,Commercial
+8063,1617,2,1,0,1,2,33,Female,1,17,Rural ,Commercial
+7106,1618,0,1,0,0,1,35,Female,3,3,Rural ,Medicaid
+8807,1619,1,3,3,0,0,43,Female,2,8,Urban,Medicaid
+7457,1620,2,1,2,1,1,40,Female,3,4,Urban,Commercial
+7938,1621,1,2,3,1,2,27,Male,1,8,Rural ,Medicaid
+8406,1622,3,0,2,1,0,32,Female,0,18,Urban,Medicaid
+8347,1623,2,0,0,0,3,30,Male,1,13,Rural ,Commercial
+8882,1624,1,0,3,1,3,37,Male,2,1,Urban,Commercial
+8865,1625,3,2,0,0,3,34,Male,5,11,Rural ,Commercial
+8032,1626,3,1,3,1,3,34,Male,5,17,Rural ,Medicaid
+8403,1627,3,2,1,1,2,35,Male,5,18,Rural ,Medicaid
+7506,1628,3,3,0,0,3,33,Male,4,6,Rural ,Commercial
+8823,1629,2,0,3,1,3,33,Male,1,8,Urban,Medicaid
+8095,1630,3,1,3,1,3,27,Male,3,14,Rural ,Commercial
+8247,1631,1,3,2,1,2,28,Male,1,19,Urban,Commercial
+7462,1632,0,1,2,0,2,35,Male,5,9,Urban,Commercial
+7432,1633,1,3,0,1,3,41,Male,5,5,Urban,Medicaid
+7799,1634,1,1,3,0,1,45,Male,3,10,Rural ,Medicaid
+8089,1635,0,0,0,0,0,40,Male,4,14,Urban,Commercial
+8086,1636,3,2,0,0,1,27,Male,0,17,Rural ,Medicaid
+8219,1637,0,2,2,0,1,36,Male,1,19,Rural ,Medicaid
+7764,1638,3,1,0,0,3,34,Male,4,10,Rural ,Commercial
+8034,1639,3,3,2,0,0,28,Male,3,14,Urban,Commercial
+8007,1640,3,1,2,1,0,32,Male,2,14,Urban,Commercial
+8880,1641,1,2,2,0,2,33,Male,1,8,Urban,Medicaid
+7420,1642,3,1,1,0,2,29,Male,2,6,Rural ,Commercial
+7513,1643,3,3,0,0,2,36,Female,4,6,Urban,Commercial
+7945,1644,1,1,0,0,0,40,Female,5,4,Rural ,Commercial
+8056,1645,1,2,0,0,1,43,Male,3,17,Rural ,Commercial
+7644,1646,3,3,0,1,1,28,Female,1,5,Urban,Commercial
+7920,1647,2,0,0,1,0,40,Female,2,8,Urban,Medicaid
+8016,1648,1,1,3,1,3,41,Female,5,16,Rural ,Commercial
+8360,1649,3,0,0,0,2,42,Female,0,20,Rural ,Commercial
+8610,1650,3,3,1,1,2,40,Female,1,21,Rural ,Medicaid
+7765,1651,3,0,1,0,1,44,Female,0,10,Rural ,Medicaid
+7112,1652,2,2,3,0,0,33,Male,3,3,Rural ,Commercial
+8085,1653,3,0,2,1,1,39,Male,2,17,Rural ,Medicaid
+8018,1654,0,1,3,1,2,28,Male,2,14,Rural ,Medicaid
+8314,1655,1,1,2,1,2,44,Male,5,20,Rural ,Medicaid
+7890,1656,0,3,0,1,2,35,Male,1,9,Urban,Commercial
+7007,1657,3,2,2,1,2,29,Male,3,3,Urban,Commercial
+8051,1658,1,1,2,1,0,45,Male,1,17,Rural ,Medicaid
+8205,1659,2,1,3,0,2,42,Female,3,18,Rural ,Medicaid
+8326,1660,3,1,2,0,0,29,Male,4,18,Urban,Medicaid
+8501,1661,3,3,1,1,0,43,Male,2,10,Urban,Medicaid
+8242,1662,3,0,3,1,0,29,Female,2,19,Urban,Commercial
+7662,1663,3,3,1,0,1,32,Male,4,5,Rural ,Commercial
+7839,1664,1,2,3,0,0,41,Male,3,9,Urban,Commercial
+7833,1665,3,1,0,0,3,32,Male,1,11,Urban,Commercial
+8739,1666,1,0,0,1,0,43,Male,0,15,Rural ,Commercial
+8876,1667,3,0,0,1,3,27,Female,2,8,Urban,Medicaid
+7503,1668,3,1,2,0,3,38,Male,0,6,Urban,Medicaid
+8352,1669,3,0,2,0,0,28,Female,3,20,Rural ,Commercial
+8647,1670,2,1,2,1,0,40,Female,5,21,Urban,Commercial
+7849,1671,1,1,1,0,0,42,Male,2,4,Rural ,Medicaid
+8080,1672,0,3,3,1,2,37,Female,1,17,Urban,Medicaid
+7399,1673,2,2,2,1,0,38,Male,0,2,Urban,Medicaid
+8004,1674,0,0,0,0,2,38,Female,1,14,Rural ,Medicaid
+7432,1675,2,2,0,1,2,37,Male,4,5,Urban,Commercial
+8822,1676,1,2,0,0,3,33,Male,5,12,Urban,Commercial
+7470,1677,1,3,2,0,2,34,Male,4,6,Rural ,Commercial
+7034,1678,0,0,2,1,3,36,Male,1,4,Rural ,Commercial
+8315,1679,1,0,3,0,2,43,Male,2,20,Urban,Medicaid
+8350,1680,3,0,2,0,0,28,Male,0,18,Rural ,Medicaid
+7020,1681,1,0,0,1,2,39,Male,4,5,Urban,Medicaid
+8504,1682,1,3,3,0,1,45,Male,4,8,Rural ,Commercial
+7921,1683,3,2,1,1,0,43,Male,0,8,Urban,Medicaid
+7070,1684,2,2,0,0,1,43,Female,5,5,Rural ,Commercial
+8558,1685,1,1,0,1,3,37,Female,2,8,Rural ,Medicaid
+8045,1686,1,2,0,0,0,32,Male,2,14,Rural ,Commercial
+8343,1687,3,2,1,1,2,36,Male,2,13,Rural ,Commercial
+7303,1688,1,0,0,0,3,45,Female,4,2,Rural ,Medicaid
+7726,1689,0,1,2,0,0,35,Male,0,10,Rural ,Medicaid
+8802,1690,2,0,0,1,0,37,Male,1,12,Rural ,Medicaid
+7507,1691,0,0,1,1,3,34,Female,3,6,Urban,Commercial
+7422,1692,2,0,0,1,1,45,Male,4,9,Urban,Commercial
+8201,1693,2,1,1,0,1,27,Male,5,18,Urban,Medicaid
+8080,1694,1,2,0,1,3,39,Male,2,17,Urban,Commercial
+7857,1695,2,0,0,0,1,29,Male,2,4,Rural ,Commercial
+8020,1696,2,2,2,0,0,29,Male,2,17,Urban,Commercial
+8068,1697,1,1,1,1,0,37,Male,1,16,Rural ,Medicaid
+7074,1698,3,2,0,0,3,37,Female,0,5,Urban,Medicaid
+7979,1699,0,1,0,1,1,29,Male,3,12,Rural ,Commercial
+8880,1700,3,3,0,0,1,37,Female,0,8,Urban,Medicaid
+7198,1701,3,2,2,0,2,37,Male,1,3,Rural ,Medicaid
+7656,1702,0,1,0,0,2,27,Male,0,5,Rural ,Commercial
+7502,1703,0,3,0,1,1,42,Male,1,6,Rural ,Medicaid
+7722,1704,1,1,3,0,3,33,Male,3,10,Urban,Medicaid
+7522,1705,2,0,0,0,0,40,Male,5,6,Rural ,Commercial
+7016,1706,1,3,3,1,1,43,Male,3,7,Rural ,Commercial
+8837,1707,2,2,0,1,1,45,Female,5,1,Urban,Medicaid
+7739,1708,3,0,1,0,2,32,Male,4,10,Rural ,Medicaid
+7068,1709,0,2,0,1,2,33,Female,4,3,Rural ,Medicaid
+8097,1710,1,2,2,1,1,27,Female,5,17,Rural ,Commercial
+8076,1711,0,3,3,1,3,42,Female,0,16,Rural ,Commercial
+7851,1712,2,1,3,1,2,45,Male,1,9,Urban,Commercial
+7831,1713,0,1,0,1,2,43,Female,3,11,Rural ,Commercial
+8242,1714,2,3,1,0,2,31,Female,2,19,Urban,Commercial
+7046,1715,3,2,1,1,3,44,Female,5,4,Urban,Commercial
+8735,1716,0,1,3,0,3,38,Female,5,15,Rural ,Commercial
+8740,1717,2,3,2,0,0,29,Male,4,15,Rural ,Medicaid
+8559,1718,1,0,1,0,1,44,Male,1,12,Urban,Medicaid
+8093,1719,1,3,3,1,3,36,Male,0,17,Rural ,Medicaid
+8879,1720,1,0,3,1,3,43,Male,4,1,Rural ,Commercial
+7740,1721,1,3,0,0,2,45,Female,3,10,Rural ,Medicaid
+7620,1722,3,2,3,0,3,35,Male,4,5,Rural ,Commercial
+7417,1723,3,1,1,1,3,33,Male,3,5,Urban,Commercial
+8872,1724,0,0,2,1,0,30,Female,0,1,Rural ,Commercial
+7061,1725,0,3,3,1,3,36,Female,0,7,Rural ,Medicaid
+7054,1726,3,0,3,1,2,27,Female,0,4,Rural ,Commercial
+7981,1727,2,1,2,0,1,30,Female,4,4,Urban,Commercial
+7440,1728,0,3,3,1,3,30,Male,5,4,Rural ,Medicaid
+7014,1729,3,0,0,1,0,35,Female,5,6,Urban,Commercial
+8542,1730,2,0,2,1,0,45,Female,3,21,Urban,Medicaid
+8867,1731,2,1,1,0,0,44,Male,0,12,Urban,Commercial
+7962,1732,2,2,0,1,3,40,Female,4,4,Urban,Commercial
+7457,1733,1,3,2,1,0,34,Female,4,4,Urban,Commercial
+8085,1734,2,0,2,0,1,44,Female,1,17,Rural ,Commercial
+8691,1735,3,3,3,0,0,41,Female,2,21,Urban,Medicaid
+7072,1736,1,2,2,0,1,29,Female,3,5,Rural ,Commercial
+7086,1737,2,0,0,1,0,40,Female,2,2,Rural ,Medicaid
+8404,1738,1,1,1,1,2,45,Female,5,18,Urban,Commercial
+7095,1739,2,2,3,1,2,32,Female,1,1,Urban,Medicaid
+7882,1740,3,2,1,1,2,44,Female,4,11,Rural ,Medicaid
+8046,1741,0,1,0,1,0,35,Male,2,16,Rural ,Medicaid
+8722,1742,3,3,2,1,1,27,Male,2,15,Rural ,Medicaid
+8757,1743,2,0,1,1,3,35,Male,2,15,Urban,Medicaid
+7747,1744,0,3,1,0,3,42,Female,1,10,Urban,Medicaid
+7716,1745,0,0,1,0,3,43,Male,1,10,Urban,Medicaid
+8754,1746,3,0,3,0,2,35,Female,5,15,Urban,Commercial
+7460,1747,1,0,3,1,3,42,Female,5,9,Urban,Commercial
+8809,1748,0,0,2,0,1,44,Male,4,12,Urban,Commercial
+7458,1749,2,0,2,0,1,29,Female,5,5,Rural ,Medicaid
+7803,1750,2,3,2,0,0,42,Female,0,4,Rural ,Commercial
+7763,1751,1,2,2,0,2,44,Male,0,10,Rural ,Commercial
+8050,1752,2,2,1,1,3,31,Male,4,15,Rural ,Commercial
+8550,1753,2,3,3,1,0,38,Female,4,21,Rural ,Commercial
+7096,1754,2,1,1,1,2,44,Male,1,2,Urban,Medicaid
+7661,1755,3,2,3,1,3,28,Male,2,5,Urban,Medicaid
+8362,1756,3,0,2,0,3,39,Male,5,20,Rural ,Medicaid
+8550,1757,1,2,2,1,2,31,Male,4,21,Urban,Commercial
+8312,1758,2,3,2,1,2,36,Male,5,17,Rural ,Commercial
+7308,1759,1,2,1,1,3,37,Male,2,2,Urban,Medicaid
+8809,1760,1,2,3,1,3,33,Male,3,12,Rural ,Medicaid
+7059,1761,3,2,1,1,0,38,Female,1,8,Rural ,Commercial
+8852,1762,1,1,1,0,3,43,Male,2,1,Rural ,Medicaid
+8863,1763,3,0,2,1,1,29,Female,4,1,Urban,Commercial
+7046,1764,0,2,3,1,2,28,Male,3,4,Rural ,Medicaid
+7507,1765,3,1,0,1,2,33,Male,4,6,Rural ,Commercial
+7901,1766,3,2,0,0,0,29,Male,5,7,Rural ,Medicaid
+8352,1767,2,0,2,0,1,32,Female,2,20,Urban,Commercial
+8077,1768,0,0,0,0,2,44,Male,5,16,Rural ,Commercial
+8720,1769,3,3,0,0,2,45,Female,3,10,Urban,Medicaid
+7090,1770,2,1,2,0,0,41,Male,5,7,Urban,Medicaid
+8828,1771,1,2,3,1,1,27,Female,5,1,Urban,Commercial
+8204,1772,2,3,2,0,1,42,Male,2,19,Rural ,Medicaid
+7083,1773,1,3,0,0,0,35,Male,4,7,Urban,Medicaid
+7051,1774,1,2,3,0,0,45,Male,4,3,Rural ,Medicaid
+8091,1775,0,1,2,1,2,30,Female,3,14,Urban,Commercial
+7064,1776,0,0,2,1,0,35,Male,3,1,Rural ,Commercial
+7652,1777,2,1,0,1,2,32,Male,4,5,Rural ,Commercial
+8060,1778,2,2,2,1,0,30,Male,5,16,Rural ,Commercial
+7077,1779,1,2,0,1,2,44,Female,2,1,Urban,Commercial
+8067,1780,3,3,2,0,3,36,Male,0,13,Rural ,Medicaid
+7624,1781,1,3,2,0,1,39,Male,1,5,Urban,Medicaid
+7015,1782,0,1,0,1,2,42,Female,0,6,Rural ,Commercial
+8217,1783,1,3,1,0,1,45,Male,3,18,Rural ,Medicaid
+7068,1784,2,2,0,1,2,33,Female,4,3,Rural ,Medicaid
+7424,1785,1,0,3,1,2,33,Male,3,6,Urban,Medicaid
+8542,1786,1,3,1,0,0,34,Male,1,21,Rural ,Commercial
+8619,1787,2,3,1,1,1,37,Male,4,21,Rural ,Commercial
+7039,1788,1,3,2,1,0,37,Male,3,3,Urban,Commercial
+8089,1789,0,3,2,1,2,42,Female,0,14,Urban,Medicaid
+7028,1790,2,3,1,1,2,41,Male,5,3,Urban,Commercial
+7047,1791,3,2,3,0,1,36,Male,3,2,Rural ,Medicaid
+7950,1792,2,0,0,0,1,45,Male,1,4,Urban,Medicaid
+8091,1793,3,1,1,0,1,35,Male,5,14,Rural ,Commercial
+7621,1794,1,0,0,0,0,29,Female,4,5,Urban,Commercial
+8554,1795,1,0,2,0,2,43,Male,3,16,Urban,Commercial
+7030,1796,2,1,3,0,3,42,Male,0,2,Urban,Commercial
+7099,1797,2,2,0,0,2,45,Male,1,2,Urban,Medicaid
+8346,1798,0,2,0,1,0,27,Male,4,18,Rural ,Commercial
+7456,1799,0,2,1,0,0,33,Female,1,6,Rural ,Commercial
+7839,1800,1,3,2,1,0,31,Male,4,9,Rural ,Medicaid
+8260,1801,0,2,2,1,0,29,Male,4,19,Rural ,Medicaid
+7032,1802,0,2,2,0,0,41,Male,1,2,Urban,Medicaid
+7670,1803,1,3,0,0,1,35,Female,3,5,Urban,Commercial
+7111,1804,3,0,2,0,0,27,Male,4,3,Urban,Commercial
+7869,1805,2,1,2,1,2,32,Male,1,4,Rural ,Commercial
+7421,1806,3,0,2,0,3,34,Male,2,6,Urban,Medicaid
+7444,1807,2,0,1,1,1,41,Female,4,4,Rural ,Commercial
+8345,1808,0,0,0,1,2,43,Male,1,20,Urban,Medicaid
+8062,1809,2,1,2,1,2,28,Male,1,17,Rural ,Medicaid
+7078,1810,3,2,2,0,1,39,Female,2,3,Rural ,Medicaid
+7110,1811,0,1,1,1,3,29,Female,2,3,Rural ,Commercial
+7607,1812,1,2,1,1,2,41,Male,4,5,Rural ,Medicaid
+8317,1813,0,1,0,1,3,42,Male,0,18,Urban,Medicaid
+7407,1814,1,3,2,1,0,30,Male,3,5,Urban,Medicaid
+7719,1815,0,3,0,0,2,40,Female,2,10,Urban,Medicaid
+8043,1816,3,1,2,0,1,33,Female,0,14,Rural ,Medicaid
+8224,1817,1,1,2,0,0,42,Male,3,16,Rural ,Medicaid
+8886,1818,2,3,3,0,0,38,Female,2,11,Rural ,Commercial
+7420,1819,2,3,2,0,0,31,Male,1,6,Urban,Medicaid
+7451,1820,1,2,3,1,0,45,Female,2,5,Rural ,Commercial
+7026,1821,1,1,2,0,2,44,Female,2,5,Urban,Medicaid
+7439,1822,3,1,0,0,3,31,Female,0,9,Urban,Commercial
+7871,1823,2,2,1,0,1,41,Male,0,9,Rural ,Commercial
+7457,1824,1,0,2,1,2,32,Male,3,4,Urban,Medicaid
+8109,1825,2,2,3,0,0,32,Female,4,14,Rural ,Commercial
+7087,1826,1,0,0,1,0,42,Male,2,2,Rural ,Commercial
+7452,1827,0,2,3,0,3,41,Female,5,5,Urban,Commercial
+8016,1828,1,0,2,1,1,37,Male,3,16,Rural ,Medicaid
+7096,1829,2,0,0,0,1,33,Male,2,2,Urban,Medicaid
+8225,1830,0,0,0,1,1,40,Male,1,18,Urban,Medicaid
+8695,1831,3,2,2,1,1,34,Female,4,21,Rural ,Commercial
+7765,1832,3,2,1,1,0,43,Male,2,10,Rural ,Medicaid
+8820,1833,3,2,3,1,0,37,Male,1,1,Urban,Commercial
+8001,1834,0,3,0,0,2,39,Female,0,13,Urban,Medicaid
+8756,1835,0,0,0,1,1,36,Male,3,15,Urban,Medicaid
+7877,1836,2,3,1,1,1,35,Male,0,9,Rural ,Medicaid
+7031,1837,1,3,2,1,0,31,Female,0,5,Urban,Commercial
+7419,1838,2,3,3,1,3,45,Female,2,9,Urban,Medicaid
+7105,1839,2,2,1,1,1,43,Female,3,3,Rural ,Medicaid
+7836,1840,2,3,1,1,1,42,Female,2,4,Urban,Medicaid
+8886,1841,2,1,2,1,1,43,Female,1,11,Urban,Commercial
+8756,1842,0,2,2,0,1,37,Male,3,15,Urban,Medicaid
+7416,1843,2,1,1,1,3,38,Male,4,9,Rural ,Medicaid
+8731,1844,2,0,0,0,3,34,Male,5,15,Rural ,Medicaid
+7846,1845,2,0,1,1,3,31,Female,5,11,Rural ,Commercial
+7419,1846,3,3,0,1,2,40,Male,0,9,Urban,Medicaid
+7837,1847,0,1,2,0,0,29,Male,2,9,Rural ,Commercial
+7108,1848,0,3,2,1,2,45,Female,3,3,Rural ,Commercial
+7839,1849,2,2,1,0,3,41,Female,4,9,Urban,Commercial
+7510,1850,2,3,0,0,0,31,Female,1,6,Rural ,Commercial
+7083,1851,0,1,2,1,0,37,Male,2,7,Urban,Medicaid
+8830,1852,3,2,0,0,0,35,Female,0,1,Urban,Medicaid
+7646,1853,2,1,1,0,0,44,Male,0,5,Urban,Commercial
+8401,1854,2,3,2,1,0,38,Female,5,18,Rural ,Commercial
+7205,1855,2,3,1,0,3,31,Male,1,7,Urban,Medicaid
+7748,1856,2,2,2,0,1,38,Male,0,10,Rural ,Commercial
+7422,1857,2,0,2,1,0,45,Female,3,9,Urban,Medicaid
+7739,1858,2,1,2,1,3,27,Male,2,10,Urban,Commercial
+8074,1859,0,0,3,1,0,45,Male,0,17,Rural ,Commercial
+7675,1860,1,2,3,1,0,41,Male,0,5,Urban,Medicaid
+8033,1861,2,0,1,1,1,41,Female,2,14,Urban,Medicaid
+7423,1862,1,2,2,0,0,39,Female,4,5,Rural ,Medicaid
+7514,1863,2,0,1,0,3,27,Female,3,6,Urban,Medicaid
+8638,1864,0,2,1,0,0,32,Female,4,21,Rural ,Medicaid
+8218,1865,0,2,3,1,1,27,Male,1,19,Urban,Commercial
+8102,1866,0,3,0,0,3,36,Female,2,14,Urban,Medicaid
+8888,1867,2,0,2,1,3,32,Male,2,12,Urban,Medicaid
+7066,1868,2,0,2,0,0,33,Female,3,7,Urban,Commercial
+8108,1869,3,2,3,0,2,37,Male,4,14,Rural ,Medicaid
+8607,1870,3,2,3,1,3,39,Female,3,21,Rural ,Medicaid
+8328,1871,0,3,3,0,0,40,Female,2,17,Rural ,Medicaid
+7604,1872,3,2,2,0,3,32,Female,5,5,Urban,Medicaid
+7974,1873,1,3,2,0,2,45,Male,1,7,Rural ,Commercial
+8039,1874,2,1,1,1,3,29,Male,2,17,Urban,Medicaid
+8848,1875,1,0,0,1,1,28,Female,3,12,Rural ,Commercial
+8734,1876,1,2,2,1,0,45,Male,5,15,Urban,Medicaid
+8107,1877,1,3,2,1,3,45,Male,2,14,Urban,Commercial
+8096,1878,2,0,2,1,2,37,Female,4,17,Rural ,Commercial
+8037,1879,3,0,1,0,3,37,Male,5,18,Rural ,Medicaid
+7403,1880,1,2,1,0,1,28,Male,2,6,Urban,Commercial
+8834,1881,1,2,3,0,1,34,Female,2,12,Urban,Commercial
+8732,1882,0,0,2,1,3,28,Female,5,15,Urban,Commercial
+8096,1883,2,3,1,0,0,30,Female,2,17,Rural ,Medicaid
+7945,1884,0,1,0,1,1,34,Female,2,4,Rural ,Commercial
+7108,1885,2,1,3,1,3,28,Female,5,3,Urban,Commercial
+8070,1886,2,0,0,1,2,42,Female,3,13,Rural ,Medicaid
+7981,1887,0,1,1,0,1,36,Male,4,4,Rural ,Commercial
+8214,1888,2,3,2,1,2,32,Female,0,19,Rural ,Medicaid
+7022,1889,0,3,3,1,1,42,Female,2,5,Urban,Commercial
+8345,1890,0,0,1,0,1,30,Male,1,20,Rural ,Commercial
+7963,1891,3,2,0,0,0,32,Male,5,4,Rural ,Medicaid
+7701,1892,0,0,2,0,3,35,Male,2,10,Rural ,Commercial
+7032,1893,1,1,0,0,1,34,Female,3,2,Rural ,Medicaid
+8026,1894,2,3,3,1,1,38,Male,2,14,Urban,Commercial
+8534,1895,2,1,0,1,3,28,Male,4,21,Rural ,Medicaid
+8610,1896,2,2,2,1,0,28,Female,2,21,Urban,Commercial
+7403,1897,0,1,2,0,0,33,Female,5,6,Rural ,Medicaid
+7008,1898,0,0,0,1,0,38,Female,4,1,Urban,Commercial
+8604,1899,0,0,0,1,2,43,Male,3,21,Urban,Medicaid
+8087,1900,2,3,2,0,2,29,Male,4,15,Urban,Commercial
+7192,1901,1,0,3,0,2,33,Female,2,3,Urban,Commercial
+7871,1902,2,0,3,1,2,44,Male,3,9,Rural ,Medicaid
+7094,1903,0,3,2,1,3,32,Male,1,2,Rural ,Commercial
+8071,1904,0,2,3,1,3,28,Female,1,17,Rural ,Medicaid
+8863,1905,0,3,1,1,0,30,Male,3,1,Rural ,Medicaid
+7061,1906,2,3,1,0,2,34,Male,0,7,Rural ,Medicaid
+8757,1907,0,3,2,0,0,34,Female,5,15,Rural ,Medicaid
+8884,1908,2,3,3,0,2,43,Female,1,1,Urban,Commercial
+7762,1909,2,1,3,1,1,35,Female,3,10,Rural ,Commercial
+8805,1910,3,3,1,0,3,38,Female,4,8,Urban,Commercial
+8836,1911,2,1,3,1,2,41,Male,2,8,Rural ,Commercial
+7103,1912,0,2,1,0,0,31,Female,1,3,Rural ,Medicaid
+7511,1913,1,1,0,0,1,40,Male,1,6,Rural ,Commercial
+8609,1914,0,2,1,0,2,43,Female,5,21,Rural ,Medicaid
+7057,1915,0,1,2,0,1,33,Female,4,5,Rural ,Commercial
+8049,1916,0,2,1,0,2,35,Female,2,14,Rural ,Commercial
+7076,1917,0,0,2,1,2,29,Female,2,7,Rural ,Commercial
+7848,1918,2,3,3,0,1,35,Female,2,9,Rural ,Commercial
+7199,1919,3,0,0,1,2,36,Male,3,3,Rural ,Commercial
+7421,1920,3,3,0,1,3,30,Male,3,6,Rural ,Commercial
+8109,1921,3,1,2,0,1,42,Male,3,14,Urban,Commercial
+7827,1922,0,1,0,1,3,43,Female,5,9,Rural ,Medicaid
+8641,1923,1,0,1,1,1,45,Female,0,16,Urban,Medicaid
+8514,1924,3,2,2,1,2,43,Male,0,10,Urban,Commercial
+7093,1925,0,0,3,0,3,42,Female,2,2,Rural ,Medicaid
+8880,1926,3,0,2,0,3,34,Male,5,8,Rural ,Medicaid
+8638,1927,1,2,0,1,1,29,Female,0,21,Urban,Commercial
+8511,1928,2,0,2,0,0,35,Male,5,16,Urban,Medicaid
+7106,1929,2,3,2,1,0,44,Male,1,3,Urban,Medicaid
+8553,1930,0,0,0,1,1,38,Male,0,8,Rural ,Commercial
+8202,1931,2,3,2,1,3,40,Female,4,19,Urban,Commercial
+8353,1932,0,2,3,0,1,40,Female,0,20,Rural ,Medicaid
+7630,1933,3,1,1,0,2,45,Female,0,5,Urban,Medicaid
+7036,1934,3,3,1,1,0,37,Female,5,7,Rural ,Medicaid
+8352,1935,3,0,1,0,3,33,Male,2,20,Rural ,Medicaid
+7747,1936,2,0,0,1,0,41,Male,2,10,Rural ,Commercial
+7505,1937,0,3,0,0,3,38,Female,2,6,Rural ,Commercial
+8846,1938,0,0,1,1,0,41,Female,4,1,Urban,Commercial
+8825,1939,2,0,3,0,1,42,Female,4,12,Rural ,Commercial
+7855,1940,2,1,3,1,1,29,Female,5,9,Urban,Medicaid
+7653,1941,2,1,2,1,3,41,Female,4,5,Urban,Medicaid
+7097,1942,2,2,0,1,1,33,Female,3,2,Rural ,Commercial
+8361,1943,1,2,0,0,2,30,Male,3,20,Urban,Commercial
+8833,1944,2,3,0,1,3,43,Male,1,12,Urban,Commercial
+8650,1945,0,3,3,0,1,31,Female,2,21,Urban,Medicaid
+8099,1946,2,3,1,1,2,34,Female,2,14,Urban,Commercial
+7438,1947,0,2,3,0,3,34,Female,0,4,Rural ,Medicaid
+7820,1948,1,1,0,0,3,28,Male,4,11,Rural ,Commercial
+8873,1949,0,3,3,1,2,38,Female,3,8,Urban,Medicaid
+8052,1950,3,0,1,1,2,43,Male,0,16,Urban,Medicaid
+8873,1951,3,3,3,0,3,35,Male,3,8,Rural ,Medicaid
+8629,1952,3,1,3,1,2,39,Female,2,21,Rural ,Commercial
+7753,1953,3,3,0,1,1,40,Male,5,10,Urban,Medicaid
+7763,1954,2,3,1,1,3,32,Female,1,10,Urban,Commercial
+7703,1955,0,0,3,0,2,37,Male,0,10,Urban,Commercial
+7926,1956,2,2,0,0,0,30,Female,1,4,Rural ,Medicaid
+7931,1957,2,1,3,0,0,38,Male,0,8,Urban,Commercial
+8557,1958,3,3,2,1,2,43,Female,1,12,Urban,Medicaid
+7456,1959,2,2,3,0,3,41,Female,5,6,Urban,Commercial
+8608,1960,1,2,2,1,1,37,Female,5,21,Urban,Commercial
+7732,1961,1,2,0,1,1,28,Male,1,10,Rural ,Commercial
+7063,1962,2,2,2,1,3,27,Male,2,8,Urban,Medicaid
+7870,1963,1,2,2,0,2,44,Female,0,4,Rural ,Commercial
+8828,1964,1,1,3,1,1,27,Male,1,1,Rural ,Commercial
+8625,1965,2,2,2,0,0,30,Male,5,21,Rural ,Commercial
+7762,1966,1,1,3,1,1,30,Female,3,10,Urban,Commercial
+7087,1967,3,1,3,1,0,45,Male,0,2,Urban,Commercial
+8902,1968,0,2,1,0,3,28,Male,3,1,Rural ,Commercial
+7740,1969,2,3,1,1,2,27,Male,0,10,Rural ,Commercial
+8869,1970,2,3,1,1,2,33,Male,3,8,Urban,Medicaid
+7070,1971,2,3,1,0,2,36,Female,3,5,Rural ,Commercial
+7034,1972,0,3,3,0,3,38,Male,5,4,Urban,Medicaid
+7435,1973,1,2,1,1,1,32,Male,5,6,Rural ,Medicaid
+8510,1974,1,1,1,1,1,34,Male,5,10,Rural ,Medicaid
+7642,1975,0,3,3,0,0,29,Male,2,5,Urban,Commercial
+7451,1976,3,2,1,1,2,41,Female,0,5,Urban,Commercial
+8064,1977,0,2,0,1,0,45,Female,1,16,Urban,Commercial
+7103,1978,2,1,3,1,2,34,Male,1,3,Rural ,Commercial
+7999,1979,1,2,3,1,1,43,Male,0,4,Urban,Medicaid
+8857,1980,2,2,1,0,2,29,Male,5,1,Rural ,Commercial
+8887,1981,1,2,1,0,0,28,Male,1,12,Rural ,Commercial
+8536,1982,0,2,1,0,0,34,Male,3,1,Urban,Commercial
+8201,1983,2,3,0,0,3,37,Male,5,18,Urban,Medicaid
+8086,1984,3,1,1,1,1,34,Female,2,17,Urban,Commercial
+8750,1985,3,1,1,0,0,44,Male,0,10,Urban,Medicaid
+7061,1986,0,1,3,0,3,29,Male,3,7,Urban,Commercial
+7650,1987,1,3,1,1,3,44,Female,2,5,Urban,Medicaid
+7933,1988,0,1,1,0,0,41,Female,1,4,Urban,Medicaid
+7403,1989,0,1,0,0,2,42,Male,4,6,Urban,Commercial
+8504,1990,0,1,1,0,2,27,Female,2,8,Urban,Commercial
+8833,1991,1,0,2,0,2,27,Male,5,12,Urban,Medicaid
+7199,1992,2,3,0,0,3,27,Male,2,3,Urban,Medicaid
+7029,1993,2,0,0,1,0,36,Female,4,2,Urban,Commercial
+8056,1994,2,3,1,0,1,37,Male,2,17,Rural ,Medicaid
+7020,1995,0,3,2,1,2,29,Female,3,5,Urban,Medicaid
+8246,1996,3,1,1,1,3,43,Male,4,19,Rural ,Commercial
+7059,1997,2,0,1,1,1,30,Male,1,8,Urban,Commercial
+7055,1998,3,1,0,1,3,38,Male,5,6,Rural ,Commercial
+7097,1999,0,1,0,1,0,45,Female,0,2,Urban,Commercial
+7428,2000,2,0,0,1,1,44,Female,2,9,Urban,Commercial
+8343,2001,3,2,2,0,0,42,Male,5,13,Rural ,Commercial
+7848,2002,2,0,3,1,2,34,Female,1,9,Urban,Commercial
+7647,2003,0,0,3,0,0,42,Female,1,5,Urban,Medicaid
+8805,2004,3,3,1,0,3,28,Female,4,8,Urban,Medicaid
+8323,2005,0,3,3,0,3,28,Female,2,20,Urban,Commercial
+7702,2006,3,2,1,1,1,43,Male,5,10,Urban,Commercial
+7097,2007,1,3,0,0,3,36,Male,2,2,Urban,Commercial
+7011,2008,0,0,2,0,1,42,Female,5,6,Rural ,Medicaid
+8868,2009,0,1,2,0,3,41,Female,0,12,Urban,Medicaid
+8068,2010,3,2,0,0,2,36,Female,1,16,Urban,Medicaid
+7936,2011,0,2,3,1,1,36,Male,5,4,Rural ,Medicaid
+7417,2012,3,1,1,0,3,33,Male,0,5,Urban,Commercial
+7624,2013,1,3,0,1,3,38,Male,1,5,Urban,Commercial
+7802,2014,0,2,2,0,0,32,Female,2,4,Rural ,Commercial
+8085,2015,2,3,2,1,0,27,Male,4,17,Urban,Medicaid
+8078,2016,3,2,3,1,1,29,Male,3,14,Urban,Medicaid
+7029,2017,2,0,2,0,1,33,Female,3,2,Urban,Commercial
+8512,2018,0,3,2,0,0,33,Male,0,1,Urban,Commercial
+8833,2019,3,2,0,1,3,42,Female,5,12,Urban,Medicaid
+7711,2020,2,0,2,0,0,39,Male,0,10,Rural ,Medicaid
+8505,2021,3,3,1,0,2,40,Female,0,16,Rural ,Medicaid
+8066,2022,1,3,1,0,3,36,Male,4,17,Rural ,Commercial
+7030,2023,2,2,0,0,1,30,Female,5,2,Rural ,Medicaid
+8855,2024,0,3,1,0,3,35,Female,5,1,Rural ,Medicaid
+7751,2025,2,2,0,0,3,32,Male,3,10,Rural ,Medicaid
+8219,2026,0,2,0,0,1,44,Male,5,19,Urban,Medicaid
+8872,2027,3,2,1,1,2,28,Male,4,1,Urban,Commercial
+7205,2028,1,2,1,1,3,29,Male,2,7,Urban,Medicaid
+7047,2029,0,3,0,1,0,43,Female,1,2,Urban,Commercial
+7419,2030,0,0,0,1,3,33,Female,3,9,Rural ,Commercial
+7843,2031,2,2,3,0,0,42,Male,5,9,Urban,Commercial
+7843,2032,2,3,0,0,0,27,Female,3,9,Rural ,Commercial
+8003,2033,1,1,0,0,3,28,Female,0,14,Urban,Medicaid
+7044,2034,3,0,1,1,1,27,Female,3,3,Rural ,Commercial
+8541,2035,2,1,2,0,2,44,Male,1,21,Urban,Medicaid
+8007,2036,0,2,3,0,0,45,Male,4,14,Urban,Medicaid
+8690,2037,1,0,3,0,0,28,Female,2,21,Urban,Commercial
+7462,2038,3,0,0,1,1,30,Female,1,9,Urban,Commercial
+8734,2039,2,1,0,1,2,27,Male,1,15,Urban,Medicaid
+7624,2040,0,1,3,1,2,36,Male,2,5,Rural ,Commercial
+8314,2041,3,3,1,1,0,36,Female,3,20,Urban,Commercial
+7852,2042,2,2,2,1,0,39,Male,0,4,Urban,Medicaid
+8758,2043,3,0,1,0,1,28,Female,4,15,Urban,Commercial
+7107,2044,3,0,2,0,0,39,Female,0,3,Urban,Commercial
+7524,2045,2,0,3,1,1,30,Male,3,6,Rural ,Medicaid
+8836,2046,1,1,0,1,3,34,Male,4,8,Rural ,Commercial
+8527,2047,0,0,0,0,3,30,Female,0,15,Urban,Medicaid
+7650,2048,2,3,3,0,2,43,Female,3,5,Rural ,Commercial
+8252,2049,1,0,2,0,0,30,Female,2,19,Rural ,Commercial
+8080,2050,2,0,3,0,1,43,Male,3,17,Urban,Commercial
+7189,2051,2,3,1,1,2,27,Male,5,3,Rural ,Medicaid
+8859,2052,3,3,0,1,2,43,Female,4,1,Rural ,Commercial
+7601,2053,1,1,3,0,3,36,Female,5,5,Urban,Medicaid
+7653,2054,2,0,2,1,0,32,Female,2,5,Urban,Medicaid
+8079,2055,0,1,1,0,1,45,Male,0,13,Rural ,Commercial
+8825,2056,3,1,0,1,1,36,Female,2,12,Rural ,Commercial
+8081,2057,1,1,3,0,2,44,Male,2,14,Rural ,Commercial
+8884,2058,1,0,3,1,0,32,Female,4,1,Urban,Medicaid
+7933,2059,0,1,0,0,0,44,Female,3,4,Rural ,Commercial
+8021,2060,2,3,1,0,0,41,Female,0,14,Urban,Medicaid
+7927,2061,0,3,0,1,3,40,Male,2,4,Urban,Commercial
+7764,2062,1,3,1,1,3,28,Female,0,10,Urban,Commercial
+7013,2063,0,2,3,1,1,41,Female,4,6,Rural ,Medicaid
+7432,2064,3,3,0,0,2,36,Female,0,5,Urban,Medicaid
+8035,2065,2,3,0,0,0,30,Female,1,14,Urban,Commercial
+8319,2066,3,1,2,1,1,39,Female,4,18,Rural ,Commercial
+8535,2067,1,1,3,0,1,44,Male,5,10,Urban,Commercial
+7082,2068,2,3,1,1,0,41,Female,1,4,Urban,Commercial
+8360,2069,2,2,2,0,3,35,Male,4,20,Urban,Medicaid
+8079,2070,1,3,0,0,0,41,Male,5,13,Rural ,Medicaid
+7701,2071,1,2,3,1,2,30,Female,4,10,Rural ,Commercial
+7004,2072,2,2,0,0,1,40,Female,1,3,Rural ,Commercial
+7032,2073,3,2,1,1,0,39,Female,3,2,Rural ,Commercial
+8757,2074,2,0,3,0,3,34,Female,1,15,Urban,Medicaid
+7660,2075,0,0,0,0,2,44,Male,4,5,Rural ,Commercial
+8533,2076,0,2,0,1,3,37,Male,2,15,Rural ,Medicaid
+7837,2077,2,0,2,1,2,30,Male,0,9,Urban,Medicaid
+7799,2078,3,2,0,1,3,33,Female,4,10,Rural ,Commercial
+8060,2079,1,1,1,0,2,43,Male,5,16,Urban,Commercial
+8202,2080,3,3,2,1,0,38,Male,1,19,Rural ,Medicaid
+7632,2081,2,0,3,0,1,29,Female,4,5,Rural ,Medicaid
+7080,2082,3,2,0,1,1,32,Female,0,1,Rural ,Medicaid
+7207,2083,1,2,2,0,0,43,Male,3,7,Rural ,Medicaid
+7086,2084,2,3,2,1,3,35,Female,1,2,Urban,Commercial
+7075,2085,2,0,2,1,2,35,Male,5,5,Rural ,Medicaid
+7764,2086,0,3,1,1,3,35,Male,0,10,Rural ,Medicaid
+7963,2087,1,0,0,1,3,40,Female,1,4,Rural ,Commercial
+8803,2088,0,0,1,0,3,31,Male,3,12,Rural ,Medicaid
+7962,2089,3,1,2,1,2,43,Female,5,4,Rural ,Commercial
+8252,2090,1,1,3,0,0,44,Female,1,19,Rural ,Medicaid
+8740,2091,3,0,2,0,3,35,Female,1,15,Rural ,Medicaid
+7104,2092,3,3,2,1,2,37,Female,2,3,Rural ,Commercial
+8812,2093,0,2,3,1,0,30,Male,4,8,Urban,Commercial
+8094,2094,2,2,2,0,1,35,Male,0,17,Urban,Medicaid
+8540,2095,0,1,1,1,1,30,Female,3,21,Urban,Medicaid
+8832,2096,3,1,1,0,3,40,Female,3,1,Urban,Medicaid
+8829,2097,2,2,3,0,3,29,Male,1,12,Rural ,Commercial
+8562,2098,3,3,3,1,3,27,Female,0,16,Rural ,Commercial
+8831,2099,0,0,2,0,1,38,Male,5,1,Rural ,Medicaid
+8353,2100,0,2,0,0,3,32,Female,4,20,Urban,Commercial
+8825,2101,3,1,0,1,0,42,Female,4,12,Rural ,Commercial
+7480,2102,2,3,2,0,2,40,Male,3,6,Urban,Commercial
+7648,2103,3,2,2,0,1,38,Female,1,5,Urban,Medicaid
+8244,2104,3,0,1,0,2,45,Female,1,18,Urban,Medicaid
+8073,2105,3,1,1,0,1,27,Female,5,16,Urban,Medicaid
+8884,2106,1,0,3,1,1,28,Female,4,1,Urban,Medicaid
+7403,2107,1,2,0,1,3,41,Male,0,6,Rural ,Medicaid
+7726,2108,2,2,0,0,2,32,Female,1,10,Urban,Medicaid
+7076,2109,1,2,3,0,3,38,Male,3,7,Rural ,Commercial
+8215,2110,2,2,3,0,1,39,Female,3,18,Urban,Medicaid
+7419,2111,0,2,3,1,1,43,Male,5,9,Rural ,Medicaid
+8821,2112,3,1,0,0,0,37,Male,2,8,Urban,Medicaid
+7504,2113,0,3,0,0,2,34,Female,3,6,Urban,Medicaid
+7087,2114,0,1,0,1,1,37,Female,1,2,Rural ,Commercial
+8106,2115,1,2,2,1,0,28,Male,2,14,Rural ,Commercial
+7078,2116,0,3,1,0,0,39,Male,3,3,Urban,Medicaid
+7016,2117,3,0,2,0,3,33,Male,3,7,Rural ,Medicaid
+7203,2118,3,3,1,0,0,36,Male,4,7,Rural ,Commercial
+8528,2119,1,1,1,1,3,37,Female,3,1,Urban,Medicaid
+7738,2120,0,1,2,1,2,44,Male,5,10,Rural ,Medicaid
+7543,2121,3,0,0,0,0,39,Female,5,6,Urban,Medicaid
+7670,2122,2,3,0,0,2,45,Female,3,5,Urban,Medicaid
+8106,2123,0,2,0,1,0,31,Female,4,14,Rural ,Commercial
+8089,2124,1,2,0,0,0,33,Female,1,14,Rural ,Medicaid
+7505,2125,1,1,0,1,3,32,Male,5,6,Rural ,Medicaid
+8059,2126,2,2,0,1,0,32,Male,5,14,Urban,Medicaid
+8352,2127,2,3,3,0,2,27,Female,3,20,Urban,Commercial
+8817,2128,2,3,3,1,1,31,Female,3,1,Urban,Medicaid
+7010,2129,3,2,2,1,1,37,Female,5,5,Urban,Medicaid
+7928,2130,3,1,3,0,3,39,Female,4,4,Urban,Commercial
+8536,2131,0,2,1,0,0,39,Male,0,1,Urban,Commercial
+8875,2132,3,1,0,1,1,30,Male,0,8,Rural ,Medicaid
+8247,2133,0,2,2,0,3,43,Female,2,19,Urban,Commercial
+7730,2134,2,3,2,0,2,29,Female,1,10,Urban,Medicaid
+8076,2135,0,1,0,1,0,45,Female,1,16,Rural ,Medicaid
+7106,2136,3,3,2,1,2,40,Female,4,3,Rural ,Medicaid
+8540,2137,2,3,0,0,3,34,Male,4,21,Urban,Medicaid
+7856,2138,1,2,2,0,0,34,Male,1,4,Urban,Commercial
+8853,2139,3,3,1,0,0,37,Male,2,8,Rural ,Medicaid
+7871,2140,3,2,3,0,3,31,Male,5,9,Urban,Commercial
+7675,2141,1,1,0,1,2,39,Male,0,5,Urban,Medicaid
+7931,2142,3,0,3,1,3,31,Female,3,8,Rural ,Medicaid
+7310,2143,0,0,0,0,1,43,Male,1,2,Rural ,Medicaid
+7962,2144,3,2,2,1,0,31,Female,0,4,Rural ,Commercial
+8221,2145,2,0,1,0,0,42,Female,2,18,Rural ,Commercial
+7017,2146,1,2,0,1,1,28,Male,5,3,Urban,Commercial
+8330,2147,1,1,3,0,3,27,Female,2,18,Rural ,Commercial
+8804,2148,1,2,0,1,3,45,Male,1,12,Rural ,Medicaid
+8829,2149,0,3,0,0,2,27,Male,4,12,Rural ,Commercial
+8821,2150,1,2,0,1,3,38,Male,5,8,Urban,Medicaid
+8933,2151,1,3,3,0,2,28,Male,5,1,Rural ,Commercial
+8501,2152,1,3,2,1,0,30,Male,3,10,Rural ,Medicaid
+7720,2153,3,0,3,1,1,36,Male,5,10,Rural ,Medicaid
+8240,2154,0,1,2,0,1,35,Female,1,18,Rural ,Commercial
+7721,2155,1,1,0,1,0,39,Male,0,10,Urban,Medicaid
+8640,2156,0,2,3,1,3,41,Female,4,16,Rural ,Commercial
+7030,2157,3,1,1,1,0,38,Female,0,2,Rural ,Commercial
+8326,2158,0,3,2,1,1,39,Male,0,18,Rural ,Commercial
+7480,2159,0,3,0,1,3,36,Male,3,6,Urban,Medicaid
+8077,2160,0,1,2,1,2,38,Male,4,16,Rural ,Medicaid
+8882,2161,1,0,0,0,0,33,Female,4,1,Rural ,Medicaid
+7936,2162,1,2,2,0,1,30,Female,3,4,Urban,Medicaid
+8059,2163,1,3,3,1,1,43,Female,1,14,Urban,Commercial
+7836,2164,0,3,1,1,0,27,Female,2,4,Urban,Commercial
+8502,2165,0,1,2,0,3,45,Male,5,8,Rural ,Commercial
+7442,2166,0,3,3,1,3,42,Female,2,6,Urban,Medicaid
+8302,2167,3,1,0,1,3,35,Female,2,20,Rural ,Commercial
+7424,2168,2,2,0,0,0,32,Male,4,6,Urban,Commercial
+8648,2169,2,2,0,0,3,33,Male,0,21,Urban,Commercial
+7428,2170,2,2,0,0,1,41,Male,4,9,Rural ,Commercial
+8016,2171,3,2,0,1,0,40,Male,2,16,Rural ,Medicaid
+8094,2172,1,0,2,1,1,39,Male,4,17,Urban,Commercial
+7310,2173,1,0,2,0,0,27,Female,0,2,Urban,Commercial
+8736,2174,1,0,3,0,2,42,Male,3,10,Urban,Commercial
+8091,2175,1,0,1,0,3,45,Male,3,14,Rural ,Commercial
+8321,2176,0,3,1,1,3,32,Female,3,20,Urban,Medicaid
+7105,2177,0,2,2,1,0,35,Female,0,3,Rural ,Medicaid
+8248,2178,0,1,0,1,0,34,Female,5,19,Rural ,Medicaid
+7514,2179,1,2,3,1,1,35,Female,1,6,Urban,Medicaid
+7543,2180,3,3,0,0,3,31,Female,0,6,Urban,Medicaid
+8553,2181,0,0,1,1,2,33,Male,5,8,Urban,Medicaid
+7849,2182,0,1,0,0,1,38,Female,2,4,Rural ,Commercial
+7017,2183,3,0,3,0,2,37,Female,5,3,Urban,Commercial
+7666,2184,1,2,1,0,1,44,Male,3,5,Urban,Medicaid
+8270,2185,1,1,3,1,2,33,Male,2,19,Urban,Commercial
+7103,2186,0,2,2,0,1,40,Female,3,3,Rural ,Medicaid
+7199,2187,2,3,2,1,1,31,Male,0,3,Rural ,Medicaid
+8027,2188,0,0,2,1,0,27,Female,3,17,Urban,Medicaid
+8038,2189,3,1,2,0,2,40,Female,5,13,Urban,Commercial
+7703,2190,2,3,0,1,2,35,Female,2,10,Urban,Medicaid
+8085,2191,0,2,1,1,1,44,Male,5,17,Rural ,Medicaid
+7513,2192,1,3,3,1,1,32,Female,5,6,Urban,Medicaid
+8807,2193,2,0,3,1,3,45,Female,2,8,Rural ,Medicaid
+8502,2194,0,1,3,1,1,43,Female,2,8,Rural ,Medicaid
+7869,2195,0,3,2,0,0,27,Male,5,4,Urban,Medicaid
+8826,2196,1,2,3,1,3,44,Female,1,12,Rural ,Commercial
+7208,2197,0,3,2,0,2,45,Male,1,7,Rural ,Medicaid
+7974,2198,2,1,1,1,2,41,Female,0,7,Rural ,Medicaid
+7423,2199,1,3,0,0,0,45,Female,3,5,Rural ,Medicaid
+8312,2200,0,0,0,1,1,28,Female,5,17,Urban,Medicaid
+7652,2201,2,3,3,1,2,34,Male,3,5,Rural ,Commercial
+7503,2202,3,0,0,1,2,27,Female,3,6,Rural ,Commercial
+7829,2203,0,3,2,0,0,35,Female,3,11,Rural ,Medicaid
+7470,2204,2,3,1,1,2,30,Female,0,6,Rural ,Medicaid
+7836,2205,2,2,2,0,2,42,Female,1,4,Rural ,Commercial
+8528,2206,2,0,0,1,1,31,Male,5,1,Rural ,Medicaid
+8103,2207,2,3,3,1,2,28,Male,3,14,Urban,Commercial
+7401,2208,0,2,1,0,0,44,Female,4,5,Urban,Medicaid
+7718,2209,2,1,3,0,3,30,Female,0,10,Urban,Commercial
+8869,2210,0,2,1,1,0,27,Male,5,8,Urban,Commercial
+8504,2211,3,3,0,0,2,32,Female,5,8,Rural ,Medicaid
+8316,2212,1,0,3,1,1,31,Female,1,20,Urban,Commercial
+8648,2213,2,3,3,1,0,33,Female,0,21,Urban,Medicaid
+7458,2214,1,0,2,1,1,30,Female,4,5,Urban,Medicaid
+7081,2215,0,0,1,1,1,28,Female,5,7,Urban,Medicaid
+7702,2216,2,0,0,0,3,39,Female,1,10,Rural ,Medicaid
+7424,2217,2,0,0,1,1,31,Female,2,6,Urban,Commercial
+8025,2218,2,0,3,1,3,42,Female,3,17,Urban,Medicaid
+8559,2219,0,0,0,0,1,30,Male,5,12,Rural ,Commercial
+7065,2220,2,0,1,0,3,37,Male,3,7,Urban,Commercial
+7746,2221,1,0,1,0,3,32,Female,1,10,Rural ,Commercial
+8110,2222,3,3,0,0,2,40,Female,5,14,Urban,Medicaid
+7963,2223,0,1,1,0,0,40,Male,3,4,Rural ,Medicaid
+8204,2224,2,2,1,1,0,30,Female,2,19,Rural ,Medicaid
+8090,2225,0,3,2,1,0,41,Male,5,17,Rural ,Commercial
+7652,2226,3,2,2,0,3,42,Male,1,5,Rural ,Commercial
+8401,2227,2,3,2,0,2,27,Female,5,18,Rural ,Medicaid
+8345,2228,3,3,3,0,0,37,Male,2,20,Rural ,Medicaid
+8816,2229,2,2,0,1,3,36,Female,3,1,Rural ,Commercial
+7081,2230,0,1,2,0,1,31,Female,4,7,Rural ,Commercial
+8803,2231,0,3,0,0,2,34,Male,3,12,Urban,Commercial
+8016,2232,1,1,2,1,0,38,Male,1,16,Rural ,Medicaid
+8808,2233,2,2,0,0,2,45,Female,2,11,Rural ,Commercial
+7403,2234,0,2,2,1,0,38,Male,5,6,Rural ,Commercial
+8030,2235,0,0,2,0,2,35,Male,2,14,Rural ,Commercial
+8060,2236,2,0,3,0,3,33,Male,5,16,Rural ,Commercial
+7461,2237,2,1,1,0,2,30,Male,2,9,Rural ,Commercial
+7726,2238,3,2,0,0,2,30,Male,1,10,Urban,Commercial
+8096,2239,1,1,0,0,1,35,Male,5,17,Urban,Medicaid
+8322,2240,0,0,2,0,0,28,Female,2,17,Urban,Commercial
+8886,2241,3,3,0,0,0,42,Male,0,11,Rural ,Commercial
+8345,2242,0,3,0,1,0,32,Male,3,20,Rural ,Medicaid
+8620,2243,0,3,3,0,2,38,Male,1,21,Urban,Medicaid
+8072,2244,1,2,0,0,2,38,Male,0,13,Rural ,Commercial
+8825,2245,2,0,2,0,1,44,Male,2,12,Urban,Medicaid
+7096,2246,3,1,2,1,0,27,Female,5,2,Urban,Medicaid
+7801,2247,2,3,0,0,0,42,Male,5,4,Urban,Commercial
+7012,2248,1,2,0,0,2,42,Male,1,6,Urban,Commercial
+7093,2249,1,0,3,0,1,37,Female,4,2,Rural ,Commercial
+7670,2250,3,3,3,0,2,37,Female,1,5,Urban,Medicaid
+8518,2251,1,3,0,1,0,28,Female,5,16,Rural ,Commercial
+7444,2252,1,3,1,0,0,37,Female,4,4,Rural ,Commercial
+7869,2253,0,0,2,1,3,35,Female,0,4,Urban,Commercial
+8345,2254,1,0,1,0,1,31,Female,4,20,Rural ,Commercial
+8542,2255,3,2,0,1,0,30,Female,5,21,Urban,Medicaid
+7012,2256,3,2,0,1,0,42,Female,5,6,Urban,Medicaid
+7879,2257,2,1,3,0,0,33,Male,0,9,Urban,Medicaid
+8068,2258,1,0,1,0,3,29,Male,3,16,Urban,Commercial
+7750,2259,0,0,3,1,3,43,Male,4,10,Rural ,Commercial
+7876,2260,1,2,1,1,2,44,Male,1,4,Urban,Medicaid
+7871,2261,3,1,3,0,3,30,Male,3,9,Urban,Medicaid
+8829,2262,0,0,1,0,2,32,Female,5,12,Rural ,Commercial
+7457,2263,1,1,3,0,3,42,Male,0,4,Rural ,Commercial
+8101,2264,3,1,2,0,2,29,Male,2,14,Rural ,Medicaid
+8861,2265,2,1,3,0,0,31,Male,0,1,Rural ,Commercial
+8872,2266,2,3,2,0,2,28,Female,1,1,Urban,Medicaid
+7640,2267,1,0,0,0,2,39,Male,5,5,Rural ,Medicaid
+7999,2268,2,1,2,1,3,35,Female,2,4,Rural ,Commercial
+7675,2269,3,1,0,1,1,27,Male,1,5,Rural ,Medicaid
+7011,2270,1,3,0,1,2,40,Male,4,6,Rural ,Commercial
+8544,2271,2,1,2,0,1,35,Male,4,21,Rural ,Medicaid
+8059,2272,2,2,3,0,2,40,Female,1,14,Urban,Commercial
+7043,2273,1,2,0,0,3,43,Female,3,3,Urban,Commercial
+7712,2274,2,2,1,1,2,27,Male,0,10,Rural ,Medicaid
+8535,2275,2,3,0,0,1,42,Male,3,10,Rural ,Medicaid
+7977,2276,3,1,2,0,1,44,Female,5,8,Rural ,Medicaid
+7737,2277,1,1,2,0,1,34,Female,0,10,Urban,Medicaid
+8226,2278,3,1,2,1,3,42,Female,1,19,Urban,Medicaid
+8875,2279,3,0,1,0,1,31,Male,3,8,Rural ,Medicaid
+8526,2280,0,0,3,0,3,42,Female,2,10,Urban,Commercial
+7848,2281,3,0,1,0,2,45,Female,2,9,Urban,Medicaid
+7304,2282,1,3,1,0,3,43,Male,3,2,Urban,Commercial
+7921,2283,0,2,3,1,3,31,Female,4,8,Urban,Medicaid
+7715,2284,3,0,3,0,3,32,Male,2,10,Urban,Commercial
+7644,2285,0,2,3,1,2,34,Female,3,5,Urban,Commercial
+8349,2286,2,2,1,1,1,34,Male,1,20,Rural ,Commercial
+7752,2287,0,1,0,0,0,35,Female,1,10,Rural ,Commercial
+7029,2288,0,1,1,1,0,42,Male,0,2,Urban,Commercial
+8056,2289,0,3,0,1,3,38,Male,1,17,Rural ,Medicaid
+8989,2290,0,2,2,0,3,33,Male,4,1,Urban,Commercial
+8022,2291,3,1,0,1,2,34,Male,0,16,Urban,Medicaid
+7023,2292,0,1,2,0,0,30,Male,0,7,Urban,Commercial
+8830,2293,3,1,3,1,1,29,Male,5,1,Urban,Commercial
+8001,2294,2,3,2,0,1,39,Female,2,13,Rural ,Medicaid
+7506,2295,0,2,1,1,0,39,Male,3,6,Urban,Commercial
+8888,2296,1,0,3,0,1,30,Male,3,12,Urban,Commercial
+8026,2297,3,2,3,0,2,32,Male,4,14,Rural ,Medicaid
+7719,2298,0,0,1,0,3,37,Male,0,10,Rural ,Commercial
+8074,2299,2,1,2,0,0,32,Female,4,17,Urban,Medicaid
+7068,2300,3,3,3,0,3,34,Male,1,3,Urban,Commercial
+7050,2301,1,3,2,1,0,42,Female,3,3,Urban,Commercial
+7017,2302,0,2,3,0,0,34,Female,1,3,Urban,Medicaid
+7407,2303,2,0,1,0,2,28,Female,2,5,Rural ,Commercial
+8557,2304,1,0,3,1,2,41,Female,3,12,Rural ,Commercial
+7837,2305,1,1,0,0,0,40,Male,2,9,Urban,Medicaid
+8759,2306,3,3,0,0,3,41,Female,1,15,Rural ,Commercial
+7863,2307,0,2,2,1,3,27,Female,4,11,Urban,Commercial
+7620,2308,1,0,2,0,1,35,Female,3,5,Rural ,Medicaid
+7962,2309,3,2,2,1,0,32,Male,1,4,Rural ,Commercial
+7505,2310,2,1,2,0,2,39,Female,3,6,Rural ,Medicaid
+7675,2311,2,2,2,0,2,33,Male,4,5,Urban,Medicaid
+8641,2312,2,3,3,1,3,31,Male,5,16,Rural ,Commercial
+7630,2313,3,3,1,0,1,34,Female,3,5,Rural ,Medicaid
+7302,2314,0,0,2,1,0,38,Male,3,2,Urban,Commercial
+8225,2315,3,0,0,0,1,43,Male,3,18,Urban,Medicaid
+7826,2316,0,3,3,0,2,28,Male,5,9,Urban,Commercial
+7722,2317,1,2,0,0,3,27,Female,1,10,Urban,Commercial
+7848,2318,1,3,3,1,2,45,Female,0,9,Rural ,Commercial
+7544,2319,0,3,3,0,3,27,Female,3,6,Rural ,Commercial
+7666,2320,2,2,3,0,2,28,Female,5,5,Rural ,Medicaid
+8534,2321,3,0,1,0,1,38,Female,2,21,Urban,Commercial
+7960,2322,1,1,0,0,2,41,Female,4,4,Urban,Commercial
+8104,2323,2,2,1,1,1,32,Female,0,14,Rural ,Commercial
+8009,2324,2,3,0,1,3,42,Male,5,14,Urban,Commercial
+8041,2325,0,3,2,1,2,37,Female,4,16,Rural ,Medicaid
+7310,2326,2,3,0,0,2,28,Female,5,2,Urban,Medicaid
+8021,2327,3,1,2,1,3,43,Female,2,14,Urban,Commercial
+8089,2328,3,1,0,0,0,36,Female,5,14,Urban,Commercial
+7193,2329,2,1,3,1,0,27,Male,3,3,Rural ,Medicaid
+7699,2330,0,1,0,1,1,28,Female,1,5,Urban,Medicaid
+8344,2331,2,2,1,1,1,27,Male,1,17,Rural ,Medicaid
+8221,2332,0,3,2,0,3,40,Male,4,18,Rural ,Commercial
+7652,2333,2,2,0,0,2,44,Male,5,5,Urban,Commercial
+8319,2334,1,2,3,1,2,30,Male,0,18,Urban,Medicaid
+8609,2335,3,1,1,1,2,37,Male,1,21,Urban,Medicaid
+8096,2336,0,0,2,0,1,38,Male,3,17,Rural ,Medicaid
+7083,2337,2,2,0,0,2,27,Female,0,7,Urban,Medicaid
+8807,2338,0,0,1,1,3,39,Female,3,8,Rural ,Medicaid
+8901,2339,3,2,3,1,2,45,Female,4,1,Urban,Commercial
+8817,2340,1,0,0,1,0,36,Male,3,1,Rural ,Medicaid
+7970,2341,2,3,3,1,3,38,Male,3,4,Urban,Medicaid
+7418,2342,1,0,3,1,3,42,Male,2,9,Rural ,Medicaid
+8840,2343,0,3,2,0,0,32,Male,3,1,Rural ,Medicaid
+7456,2344,0,0,3,0,0,32,Female,0,6,Urban,Commercial
+7823,2345,2,1,1,1,1,36,Female,0,11,Urban,Medicaid
+8558,2346,2,1,0,0,0,41,Female,0,8,Rural ,Commercial
+7738,2347,3,1,3,1,1,31,Female,1,10,Urban,Commercial
+8093,2348,2,3,1,0,3,36,Female,5,17,Rural ,Medicaid
+7011,2349,2,2,2,0,3,35,Male,0,6,Urban,Medicaid
+7721,2350,0,2,0,0,2,34,Male,0,10,Urban,Commercial
+8225,2351,0,1,1,1,1,42,Female,3,18,Urban,Medicaid
+8109,2352,1,3,3,1,2,38,Male,0,14,Rural ,Commercial
+7303,2353,3,3,1,1,0,29,Male,5,2,Urban,Commercial
+7756,2354,1,2,0,1,2,40,Female,2,10,Rural ,Commercial
+8646,2355,2,1,3,1,0,32,Male,5,21,Rural ,Commercial
+7019,2356,0,0,0,0,3,38,Female,1,3,Rural ,Medicaid
+7881,2357,1,0,0,1,3,45,Male,0,9,Rural ,Commercial
+7033,2358,0,0,3,1,2,28,Female,3,7,Rural ,Medicaid
+7418,2359,3,2,1,0,1,36,Male,5,9,Rural ,Commercial
+8823,2360,0,2,0,1,2,37,Male,5,8,Urban,Commercial
+8092,2361,0,0,2,1,2,35,Female,2,15,Urban,Medicaid
+7452,2362,2,1,1,0,2,44,Female,5,5,Rural ,Medicaid
+7746,2363,0,2,3,1,0,28,Female,0,10,Rural ,Medicaid
+7304,2364,0,0,3,0,2,37,Female,1,2,Urban,Medicaid
+7009,2365,2,1,1,0,1,36,Female,5,3,Rural ,Medicaid
+7940,2366,2,0,3,1,1,41,Female,0,4,Rural ,Commercial
+7407,2367,1,1,2,0,3,37,Female,3,5,Rural ,Medicaid
+8048,2368,2,3,2,1,3,34,Male,2,16,Urban,Commercial
+8821,2369,2,3,0,1,0,29,Female,4,8,Rural ,Commercial
+7016,2370,0,1,1,0,3,33,Male,3,7,Rural ,Medicaid
+7024,2371,1,3,3,1,0,28,Male,2,5,Rural ,Commercial
+7036,2372,2,1,2,1,1,45,Male,5,7,Rural ,Commercial
+8056,2373,1,2,1,0,0,31,Female,2,17,Urban,Commercial
+8350,2374,3,1,0,1,1,34,Female,3,18,Urban,Medicaid
+8084,2375,3,0,2,0,1,35,Female,0,14,Rural ,Commercial
+8101,2376,2,0,3,1,3,44,Male,4,14,Rural ,Medicaid
+7656,2377,3,0,3,1,2,31,Female,0,5,Rural ,Medicaid
+8098,2378,0,3,3,1,2,41,Male,2,13,Urban,Medicaid
+7188,2379,0,2,2,0,2,33,Female,3,3,Urban,Commercial
+8212,2380,0,3,3,1,1,33,Female,2,19,Rural ,Medicaid
+8554,2381,3,2,1,0,2,38,Male,2,16,Rural ,Medicaid
+8559,2382,3,1,2,0,2,38,Male,2,12,Rural ,Commercial
+7802,2383,0,3,3,0,2,38,Male,5,4,Rural ,Medicaid
+7303,2384,2,2,3,0,3,38,Male,4,2,Urban,Commercial
+7978,2385,1,1,2,0,0,40,Female,4,8,Urban,Commercial
+7047,2386,2,3,2,1,0,37,Female,5,2,Urban,Commercial
+8868,2387,0,1,0,1,2,38,Male,4,12,Urban,Medicaid
+8695,2388,2,0,3,0,1,42,Male,2,21,Urban,Medicaid
+8087,2389,3,3,1,1,0,36,Female,2,15,Urban,Commercial
+7737,2390,3,0,2,1,3,43,Male,5,10,Urban,Medicaid
+7631,2391,0,3,3,1,2,35,Female,5,5,Urban,Medicaid
+7726,2392,1,2,0,0,3,37,Female,4,10,Rural ,Medicaid
+7051,2393,2,0,0,0,1,40,Male,5,3,Urban,Medicaid
+7305,2394,1,2,3,1,2,38,Male,0,2,Urban,Medicaid
+7019,2395,0,3,2,1,1,30,Female,0,3,Rural ,Medicaid
+8862,2396,2,3,0,0,2,32,Male,2,1,Rural ,Medicaid
+7104,2397,1,0,3,1,1,45,Female,3,3,Rural ,Commercial
+8059,2398,2,2,0,0,2,33,Male,2,14,Rural ,Medicaid
+7203,2399,2,2,1,0,3,33,Female,2,7,Urban,Medicaid
+8027,2400,1,1,1,0,3,35,Female,0,17,Rural ,Commercial
+7465,2401,1,2,0,1,1,36,Female,4,6,Urban,Medicaid
+7424,2402,2,2,3,1,3,44,Female,0,6,Urban,Medicaid
+8406,2403,1,2,0,1,2,45,Female,4,18,Rural ,Commercial
+8848,2404,3,2,2,0,0,45,Female,2,12,Urban,Commercial
+7726,2405,3,1,3,0,2,34,Female,2,10,Rural ,Commercial
+7938,2406,0,3,1,1,1,45,Male,4,8,Urban,Commercial
+7071,2407,2,0,1,1,1,45,Male,2,5,Urban,Medicaid
+8320,2408,0,2,1,1,3,31,Male,3,20,Urban,Commercial
+7032,2409,3,2,1,1,1,30,Female,2,2,Rural ,Commercial
+8542,2410,3,3,2,1,3,27,Female,0,21,Rural ,Commercial
+7463,2411,2,3,2,0,1,45,Female,0,5,Urban,Medicaid
+8045,2412,3,1,3,0,3,41,Female,4,14,Urban,Commercial
+7675,2413,3,3,3,1,1,27,Male,0,5,Rural ,Commercial
+7201,2414,0,3,0,0,0,27,Female,5,7,Rural ,Medicaid
+7005,2415,2,2,2,1,2,35,Male,4,4,Urban,Commercial
+8403,2416,2,1,1,0,3,36,Female,1,18,Rural ,Medicaid
+8807,2417,2,0,0,1,0,34,Female,5,8,Urban,Commercial
+7112,2418,1,2,1,0,3,40,Male,3,3,Rural ,Medicaid
+8240,2419,3,1,2,0,1,41,Male,5,18,Urban,Commercial
+8823,2420,1,0,2,1,1,37,Female,1,8,Urban,Commercial
+8345,2421,0,3,2,1,0,35,Male,3,20,Urban,Commercial
+7885,2422,0,0,2,1,2,27,Female,2,4,Urban,Medicaid
+8817,2423,3,0,3,0,1,36,Male,2,1,Urban,Medicaid
+8865,2424,1,3,3,1,2,34,Male,4,11,Rural ,Medicaid
+7853,2425,2,0,2,0,2,33,Male,3,4,Rural ,Commercial
+7501,2426,2,3,1,0,0,44,Male,1,6,Urban,Medicaid
+7844,2427,3,1,2,0,3,40,Female,3,11,Urban,Commercial
+7446,2428,3,0,1,0,1,40,Male,5,5,Urban,Medicaid
+8202,2429,3,3,2,1,2,39,Female,1,19,Rural ,Medicaid
+7847,2430,2,0,1,1,1,44,Male,5,4,Rural ,Commercial
+8505,2431,0,3,1,0,3,28,Female,4,16,Rural ,Medicaid
+8109,2432,1,3,2,0,0,30,Female,3,14,Rural ,Medicaid
+7017,2433,0,3,3,1,2,29,Male,4,3,Rural ,Commercial
+8816,2434,2,0,1,1,2,27,Male,5,1,Rural ,Medicaid
+7505,2435,3,2,1,1,0,40,Female,5,6,Urban,Commercial
+8625,2436,1,2,3,1,1,40,Male,3,21,Rural ,Commercial
+7005,2437,0,1,1,1,2,30,Male,4,4,Urban,Medicaid
+7727,2438,1,1,0,0,3,45,Female,5,10,Rural ,Commercial
+8069,2439,0,0,3,1,3,43,Female,4,13,Rural ,Medicaid
+8075,2440,2,2,1,0,2,37,Male,0,16,Rural ,Commercial
+7111,2441,1,3,3,1,3,34,Female,1,3,Rural ,Commercial
+7090,2442,1,0,1,1,1,37,Female,0,7,Urban,Commercial
+7831,2443,3,1,1,1,0,35,Male,4,11,Rural ,Medicaid
+7856,2444,1,3,0,1,2,33,Female,3,4,Urban,Commercial
+7647,2445,3,0,2,0,0,27,Female,0,5,Urban,Commercial
+7033,2446,3,3,0,0,3,32,Male,0,7,Urban,Commercial
+7092,2447,1,2,1,0,3,38,Female,4,7,Urban,Commercial
+8887,2448,3,2,2,1,0,43,Female,4,12,Urban,Commercial
+7842,2449,0,3,0,0,1,44,Female,4,4,Rural ,Medicaid
+7846,2450,3,1,3,1,1,29,Female,1,11,Urban,Commercial
+7607,2451,2,0,2,0,0,39,Male,0,5,Rural ,Medicaid
+7055,2452,2,0,2,0,1,42,Male,2,6,Rural ,Medicaid
+8055,2453,3,2,2,0,3,32,Male,4,16,Rural ,Medicaid
+7432,2454,3,3,0,1,0,27,Female,2,5,Rural ,Medicaid
+8880,2455,2,3,3,0,2,28,Male,3,8,Rural ,Medicaid
+8241,2456,0,0,1,0,1,37,Male,5,18,Urban,Medicaid
+7311,2457,3,1,0,1,2,31,Male,1,2,Rural ,Commercial
+7308,2458,3,0,2,0,2,29,Female,5,2,Rural ,Commercial
+7753,2459,1,1,2,1,1,34,Female,5,10,Urban,Medicaid
+7440,2460,1,2,3,1,2,43,Male,3,4,Urban,Commercial
+8906,2461,0,2,0,1,3,38,Female,0,1,Urban,Commercial
+7002,2462,3,1,3,1,0,37,Female,2,2,Rural ,Medicaid
+8204,2463,1,3,0,0,0,29,Female,4,19,Rural ,Commercial
+8340,2464,3,3,3,0,2,38,Female,2,18,Rural ,Medicaid
+7416,2465,1,2,1,0,3,30,Male,4,9,Urban,Commercial
+7765,2466,0,2,2,0,1,33,Male,3,10,Urban,Commercial
+7403,2467,3,1,1,1,1,45,Male,1,6,Rural ,Commercial
+8518,2468,0,0,3,1,2,27,Male,3,16,Rural ,Medicaid
+8608,2469,1,3,2,1,3,43,Female,3,21,Rural ,Commercial
+8834,2470,2,2,2,0,1,31,Female,2,12,Urban,Commercial
+7456,2471,2,1,0,1,1,41,Male,4,6,Rural ,Medicaid
+7103,2472,3,2,1,1,1,32,Male,2,3,Urban,Commercial
+7661,2473,2,3,1,1,0,33,Female,2,5,Urban,Medicaid
+7730,2474,1,1,0,0,0,40,Female,1,10,Urban,Medicaid
+7061,2475,3,1,2,0,2,42,Female,3,7,Rural ,Commercial
+7963,2476,2,0,2,0,1,45,Male,0,4,Rural ,Commercial
+7108,2477,2,0,3,0,3,44,Female,0,3,Rural ,Medicaid
+7050,2478,1,0,3,1,3,43,Female,3,3,Rural ,Medicaid
+8733,2479,0,1,1,1,2,35,Female,3,15,Rural ,Medicaid
+7093,2480,0,1,1,1,0,32,Female,4,2,Urban,Commercial
+8541,2481,3,3,3,0,1,35,Female,0,21,Rural ,Commercial
+8812,2482,2,3,0,0,3,33,Female,4,8,Rural ,Medicaid
+8888,2483,1,3,0,1,0,28,Male,0,12,Rural ,Commercial
+8882,2484,0,3,0,1,2,31,Female,1,1,Rural ,Medicaid
+8313,2485,3,0,3,1,1,34,Female,4,20,Rural ,Commercial
+7199,2486,3,0,2,1,1,29,Male,4,3,Rural ,Commercial
+8802,2487,1,1,2,0,2,41,Female,1,12,Rural ,Commercial
+7663,2488,1,2,2,1,0,41,Female,5,5,Rural ,Commercial
+7026,2489,3,3,3,1,3,45,Male,2,5,Rural ,Medicaid
+8002,2490,0,0,0,0,3,32,Female,1,14,Urban,Medicaid
+8201,2491,2,0,2,0,3,27,Female,2,18,Rural ,Commercial
+7422,2492,2,1,0,0,3,39,Female,1,9,Rural ,Medicaid
+8321,2493,3,2,1,0,1,43,Male,0,20,Urban,Commercial
+7432,2494,1,2,1,1,3,37,Male,5,5,Urban,Medicaid
+7205,2495,2,2,3,0,1,45,Female,1,7,Rural ,Medicaid
+8350,2496,3,2,1,0,3,43,Female,2,18,Rural ,Medicaid
+7070,2497,0,1,1,0,1,42,Female,1,5,Urban,Medicaid
+7075,2498,0,1,3,0,1,39,Female,1,5,Urban,Medicaid
+7514,2499,2,3,1,0,0,44,Female,0,6,Rural ,Commercial
+7039,2500,3,3,1,1,1,31,Female,1,3,Rural ,Medicaid
+7099,2501,0,2,3,0,2,28,Male,5,2,Urban,Medicaid
+8840,2502,0,0,3,0,3,40,Female,4,1,Rural ,Medicaid
+7035,2503,3,0,2,1,3,42,Male,4,4,Urban,Commercial
+8876,2504,3,2,2,1,3,32,Female,4,8,Urban,Medicaid
+8933,2505,1,2,1,0,0,37,Female,1,1,Rural ,Medicaid
+8505,2506,2,1,0,1,1,27,Male,0,16,Urban,Commercial
+7058,2507,3,0,0,1,2,40,Male,0,4,Rural ,Medicaid
+7399,2508,3,2,2,0,2,28,Male,3,2,Urban,Medicaid
+8501,2509,1,1,2,0,2,27,Male,4,10,Rural ,Medicaid
+7198,2510,2,3,3,1,0,42,Male,4,3,Rural ,Medicaid
+8533,2511,2,2,3,0,1,30,Male,2,15,Urban,Commercial
+7701,2512,2,1,3,1,3,34,Female,1,10,Urban,Commercial
+8247,2513,3,2,0,1,0,27,Male,5,19,Urban,Commercial
+8342,2514,1,2,0,1,0,33,Female,5,18,Urban,Commercial
+8362,2515,3,0,3,0,2,42,Male,4,20,Rural ,Commercial
+8005,2516,1,1,3,0,0,28,Female,1,15,Urban,Commercial
+8691,2517,3,3,2,1,3,38,Female,3,21,Rural ,Medicaid
+8215,2518,2,3,3,0,2,34,Female,3,18,Urban,Commercial
+8605,2519,1,0,1,0,1,30,Female,1,21,Urban,Commercial
+7008,2520,2,3,3,0,3,40,Male,5,1,Rural ,Commercial
+8859,2521,0,0,2,1,3,39,Male,0,1,Rural ,Medicaid
+8530,2522,2,3,1,0,1,31,Male,0,12,Urban,Medicaid
+7504,2523,2,0,0,1,3,31,Male,3,6,Rural ,Medicaid
+8501,2524,2,3,1,0,3,40,Female,5,10,Urban,Medicaid
+8003,2525,1,3,0,1,2,34,Female,5,14,Rural ,Medicaid
+8221,2526,2,0,0,1,1,31,Female,2,18,Rural ,Commercial
+8755,2527,3,2,3,0,1,29,Male,1,15,Urban,Commercial
+8818,2528,1,3,2,1,0,38,Male,2,1,Urban,Commercial
+7061,2529,3,1,1,1,0,27,Male,3,7,Rural ,Commercial
+8105,2530,3,3,0,0,3,32,Female,5,14,Urban,Commercial
+8234,2531,1,2,3,0,3,39,Male,3,18,Rural ,Medicaid
+7306,2532,0,3,2,0,2,39,Female,4,2,Rural ,Medicaid
+7760,2533,0,2,1,0,1,42,Female,0,10,Urban,Medicaid
+7662,2534,2,1,1,0,3,34,Male,2,5,Urban,Commercial
+7878,2535,3,1,2,1,1,39,Female,2,4,Urban,Commercial
+8032,2536,2,2,1,1,3,38,Male,2,17,Urban,Medicaid
+8035,2537,0,3,3,1,1,41,Female,3,14,Rural ,Medicaid
+7022,2538,3,2,1,0,1,40,Male,5,5,Rural ,Medicaid
+7042,2539,2,0,0,0,2,40,Male,4,3,Rural ,Medicaid
+7765,2540,1,1,3,0,1,41,Female,2,10,Rural ,Commercial
+7739,2541,3,0,2,1,0,32,Male,3,10,Urban,Medicaid
+7604,2542,1,3,3,1,0,41,Female,1,5,Urban,Medicaid
+8039,2543,2,1,0,0,1,41,Female,4,17,Rural ,Commercial
+7022,2544,0,1,1,1,0,41,Male,0,5,Urban,Medicaid
+7463,2545,0,2,1,0,3,36,Female,3,5,Urban,Commercial
+8074,2546,3,0,3,1,2,28,Male,3,17,Urban,Medicaid
+7064,2547,1,0,1,1,1,41,Male,2,1,Urban,Medicaid
+7710,2548,2,0,0,1,1,36,Female,3,10,Urban,Commercial
+8225,2549,2,0,1,1,2,32,Female,3,18,Urban,Commercial
+7099,2550,0,2,3,0,0,40,Female,1,2,Rural ,Commercial
+7023,2551,2,3,1,0,3,28,Female,0,7,Urban,Commercial
+7189,2552,2,0,1,0,3,37,Male,5,3,Urban,Commercial
+8313,2553,2,1,3,0,0,40,Male,3,20,Rural ,Medicaid
+7076,2554,2,0,0,0,1,29,Female,2,7,Rural ,Commercial
+8557,2555,0,2,2,0,0,37,Male,4,12,Urban,Medicaid
+8831,2556,2,1,0,0,1,34,Female,4,1,Urban,Commercial
+7442,2557,0,2,0,1,2,34,Female,2,6,Rural ,Commercial
+7065,2558,3,3,1,0,0,39,Male,3,7,Rural ,Medicaid
+7950,2559,1,0,3,0,1,33,Male,3,4,Urban,Medicaid
+8350,2560,1,2,1,1,2,36,Male,5,18,Urban,Commercial
+7656,2561,3,1,1,0,1,33,Male,3,5,Rural ,Medicaid
+8525,2562,3,3,0,1,2,32,Female,5,21,Urban,Commercial
+7057,2563,1,3,2,0,3,37,Male,4,5,Urban,Medicaid
+8027,2564,1,0,1,0,1,28,Female,3,17,Rural ,Commercial
+7920,2565,2,0,2,0,1,33,Female,1,8,Urban,Commercial
+7803,2566,0,1,0,0,3,38,Male,3,4,Urban,Medicaid
+8022,2567,0,3,0,1,3,32,Male,2,16,Urban,Medicaid
+7036,2568,1,1,3,1,1,41,Female,0,7,Urban,Medicaid
+7701,2569,0,2,3,1,3,29,Female,1,10,Rural ,Medicaid
+7901,2570,0,2,1,0,3,32,Female,4,7,Rural ,Commercial
+8067,2571,0,2,2,1,1,42,Male,4,13,Rural ,Medicaid
+7432,2572,3,3,3,0,3,28,Female,1,5,Rural ,Commercial
+8060,2573,3,2,3,1,2,35,Male,3,16,Rural ,Medicaid
+7758,2574,0,3,0,1,3,27,Female,3,10,Rural ,Commercial
+7010,2575,1,0,1,1,3,41,Female,0,5,Rural ,Commercial
+7932,2576,1,0,2,0,0,42,Female,3,4,Urban,Medicaid
+8071,2577,2,0,3,0,0,36,Male,1,17,Urban,Commercial
+8757,2578,3,0,0,0,2,32,Female,5,15,Urban,Commercial
+7626,2579,2,3,3,0,3,38,Male,2,5,Urban,Commercial
+8735,2580,1,1,2,0,0,37,Male,5,15,Urban,Commercial
+7645,2581,2,3,2,1,0,29,Female,5,5,Rural ,Commercial
+8080,2582,0,1,1,0,0,30,Male,5,17,Rural ,Medicaid
+8088,2583,0,2,0,1,1,40,Male,2,16,Urban,Medicaid
+8904,2584,1,2,3,0,1,39,Male,5,1,Rural ,Commercial
+7403,2585,2,0,3,1,3,28,Male,1,6,Urban,Commercial
+7950,2586,3,2,3,0,3,31,Female,3,4,Rural ,Commercial
+8641,2587,2,2,3,0,2,31,Male,3,16,Urban,Commercial
+7305,2588,2,1,2,1,2,44,Female,0,2,Rural ,Commercial
+8225,2589,2,2,0,0,0,36,Male,0,18,Rural ,Commercial
+7031,2590,3,0,3,1,3,36,Male,4,5,Rural ,Medicaid
+7107,2591,0,1,3,0,1,43,Female,4,3,Urban,Commercial
+7608,2592,0,0,3,1,2,38,Female,1,5,Urban,Commercial
+8046,2593,1,1,1,1,3,41,Male,4,16,Rural ,Commercial
+8027,2594,2,1,3,1,1,35,Male,1,17,Rural ,Commercial
+7078,2595,0,0,1,0,2,36,Female,4,3,Rural ,Commercial
+8899,2596,2,2,0,0,3,38,Female,4,1,Urban,Medicaid
+7756,2597,3,2,2,1,1,34,Male,0,10,Rural ,Commercial
+8542,2598,0,0,3,1,3,31,Female,2,21,Urban,Commercial
+7417,2599,1,2,1,1,0,37,Female,5,5,Urban,Medicaid
+7428,2600,3,3,0,1,0,28,Female,1,9,Rural ,Commercial
+8252,2601,3,1,2,1,0,31,Female,0,19,Urban,Medicaid
+7480,2602,2,3,3,0,2,36,Male,4,6,Urban,Medicaid
+8225,2603,1,1,0,1,1,45,Female,1,18,Rural ,Commercial
+8821,2604,0,3,1,0,2,37,Female,1,8,Urban,Medicaid
+8093,2605,0,3,3,0,0,45,Male,5,17,Rural ,Medicaid
+8242,2606,2,2,1,1,2,33,Female,1,19,Rural ,Medicaid
+7044,2607,0,0,0,0,3,29,Female,4,3,Urban,Commercial
+7869,2608,2,0,3,0,0,45,Male,5,4,Urban,Commercial
+8514,2609,0,0,3,1,2,28,Female,1,10,Urban,Medicaid
+7960,2610,3,2,2,0,3,32,Male,0,4,Rural ,Commercial
+8826,2611,1,2,0,0,3,43,Male,2,12,Urban,Commercial
+8835,2612,3,0,1,0,2,39,Male,4,8,Urban,Medicaid
+7880,2613,1,1,3,0,3,29,Female,4,11,Rural ,Medicaid
+8867,2614,3,3,3,1,2,39,Female,3,12,Urban,Commercial
+7733,2615,2,3,2,0,1,32,Male,0,10,Rural ,Commercial
+8084,2616,2,0,0,1,1,44,Female,4,14,Rural ,Commercial
+8202,2617,2,0,0,1,3,42,Female,0,19,Urban,Commercial
+7901,2618,0,3,1,1,0,36,Female,2,7,Rural ,Commercial
+7470,2619,2,3,0,0,1,44,Male,0,6,Rural ,Medicaid
+8904,2620,1,0,2,1,0,42,Male,4,1,Urban,Commercial
+7099,2621,2,0,2,0,0,41,Female,5,2,Urban,Commercial
+7980,2622,2,1,1,0,2,41,Female,5,4,Urban,Medicaid
+7054,2623,2,2,1,0,2,42,Female,4,4,Urban,Medicaid
+7715,2624,1,1,1,1,2,33,Male,2,10,Urban,Commercial
+8224,2625,1,2,0,1,2,41,Female,3,16,Urban,Commercial
+8096,2626,1,2,2,1,1,27,Female,5,17,Urban,Medicaid
+7097,2627,2,2,3,1,1,38,Female,4,2,Urban,Medicaid
+7199,2628,1,0,0,0,1,28,Male,5,3,Rural ,Commercial
+7060,2629,1,3,1,1,3,34,Female,2,7,Rural ,Commercial
+8214,2630,0,0,1,0,3,40,Female,4,19,Rural ,Commercial
+7416,2631,1,0,3,0,3,38,Female,3,9,Urban,Medicaid
+8611,2632,2,2,2,1,1,43,Female,4,21,Rural ,Commercial
+7513,2633,3,2,2,0,3,41,Female,2,6,Urban,Commercial
+8046,2634,0,3,1,0,3,39,Male,3,16,Urban,Commercial
+7060,2635,1,1,3,0,3,36,Male,4,7,Rural ,Commercial
+8404,2636,2,1,0,0,0,27,Female,4,18,Rural ,Medicaid
+7606,2637,1,1,2,1,3,34,Male,3,5,Rural ,Commercial
+8053,2638,1,0,1,1,0,44,Male,2,16,Rural ,Medicaid
+8853,2639,2,0,0,1,1,28,Male,5,8,Rural ,Medicaid
+8064,2640,0,0,0,0,1,43,Male,3,16,Rural ,Commercial
+8827,2641,1,0,1,1,1,29,Male,0,12,Urban,Commercial
+8076,2642,3,0,3,0,3,28,Female,3,16,Urban,Medicaid
+7042,2643,1,0,3,0,3,40,Female,5,3,Rural ,Commercial
+7846,2644,2,2,2,0,0,29,Female,0,11,Rural ,Medicaid
+7304,2645,1,1,3,0,0,27,Male,3,2,Rural ,Medicaid
+7020,2646,2,0,0,1,1,29,Female,0,5,Urban,Commercial
+8833,2647,2,0,0,0,0,44,Female,3,12,Rural ,Medicaid
+7011,2648,1,0,1,1,0,40,Female,3,6,Rural ,Medicaid
+7078,2649,2,2,1,0,2,36,Male,5,3,Rural ,Commercial
+8313,2650,2,1,2,1,2,27,Female,0,20,Rural ,Commercial
+8618,2651,0,1,0,0,3,32,Female,2,21,Rural ,Medicaid
+7054,2652,2,2,0,1,2,45,Male,4,4,Rural ,Commercial
+7653,2653,3,1,2,1,0,33,Female,4,5,Rural ,Commercial
+8046,2654,3,2,3,0,2,38,Female,1,16,Rural ,Commercial
+8734,2655,1,2,0,1,0,39,Female,2,15,Urban,Medicaid
+8090,2656,3,0,3,1,0,29,Male,2,17,Urban,Medicaid
+8030,2657,2,1,1,0,0,43,Female,0,14,Rural ,Commercial
+7976,2658,3,1,3,0,1,29,Male,3,4,Rural ,Commercial
+8831,2659,2,1,2,0,3,44,Male,0,1,Urban,Commercial
+8804,2660,0,0,1,1,0,33,Male,1,12,Rural ,Commercial
+7058,2661,1,0,3,0,0,37,Female,1,4,Urban,Medicaid
+7502,2662,2,0,3,0,0,39,Male,3,6,Urban,Commercial
+7851,2663,3,1,1,1,1,37,Male,5,9,Urban,Medicaid
+8088,2664,1,2,0,0,3,33,Female,3,16,Urban,Medicaid
+8832,2665,1,3,3,0,2,31,Male,2,1,Urban,Medicaid
+7756,2666,1,1,1,1,1,45,Female,1,10,Rural ,Commercial
+8735,2667,1,2,1,1,2,35,Male,3,15,Rural ,Medicaid
+8853,2668,0,0,2,1,0,28,Male,1,8,Urban,Commercial
+7836,2669,0,3,0,0,0,38,Male,4,4,Rural ,Commercial
+7512,2670,2,1,3,0,1,39,Female,3,6,Rural ,Commercial
+7870,2671,1,3,0,0,1,34,Male,5,4,Rural ,Commercial
+7699,2672,1,0,2,1,2,29,Female,0,5,Urban,Medicaid
+8004,2673,2,3,1,0,0,35,Male,2,14,Urban,Commercial
+7086,2674,1,3,0,0,3,31,Female,2,2,Rural ,Medicaid
+8096,2675,1,2,1,0,3,43,Male,1,17,Urban,Medicaid
+8073,2676,0,0,0,0,3,30,Male,2,16,Urban,Commercial
+8070,2677,3,0,1,1,0,32,Male,5,13,Rural ,Commercial
+7728,2678,2,2,1,0,2,39,Male,5,10,Rural ,Commercial
+8314,2679,3,0,2,0,1,32,Female,3,20,Rural ,Commercial
+7631,2680,2,3,1,1,1,32,Male,1,5,Urban,Commercial
+8608,2681,0,2,0,1,2,43,Female,3,21,Rural ,Commercial
+8270,2682,0,0,0,0,1,44,Female,1,19,Rural ,Commercial
+7078,2683,1,1,3,0,3,33,Female,4,3,Rural ,Medicaid
+7012,2684,3,2,2,1,2,37,Male,1,6,Rural ,Medicaid
+7834,2685,3,3,2,1,3,38,Male,2,4,Urban,Medicaid
+7013,2686,2,0,3,0,3,38,Female,0,6,Urban,Medicaid
+8831,2687,1,2,0,0,3,33,Female,5,1,Urban,Medicaid
+8053,2688,1,1,0,1,0,36,Male,2,16,Urban,Commercial
+8050,2689,0,0,2,0,3,41,Male,1,15,Urban,Commercial
+7977,2690,2,0,0,1,1,40,Male,4,8,Urban,Medicaid
+8899,2691,1,0,1,1,1,28,Male,1,1,Urban,Commercial
+8536,2692,0,0,1,1,1,36,Female,1,1,Rural ,Commercial
+8246,2693,0,2,2,1,1,33,Male,3,19,Urban,Medicaid
+7421,2694,3,2,1,1,1,39,Male,5,6,Rural ,Medicaid
+8611,2695,3,2,1,0,2,32,Female,4,21,Rural ,Commercial
+8225,2696,1,1,1,0,1,28,Female,2,18,Urban,Commercial
+8360,2697,3,3,1,1,3,30,Female,3,20,Urban,Medicaid
+7013,2698,0,1,2,0,0,29,Female,1,6,Rural ,Medicaid
+8059,2699,2,0,0,0,2,43,Female,1,14,Rural ,Commercial
+7826,2700,0,3,0,1,1,40,Female,1,9,Urban,Commercial
+7732,2701,3,2,2,1,3,34,Female,4,10,Urban,Commercial
+8528,2702,1,1,1,1,0,40,Female,3,1,Rural ,Medicaid
+8033,2703,1,3,0,1,2,42,Male,0,14,Rural ,Commercial
+7070,2704,3,2,2,0,2,43,Male,2,5,Rural ,Commercial
+8804,2705,0,3,2,0,3,36,Female,0,12,Rural ,Medicaid
+8556,2706,3,2,2,1,2,34,Male,2,12,Urban,Medicaid
+8324,2707,3,1,3,1,0,35,Male,1,20,Rural ,Commercial
+8332,2708,0,1,1,0,0,30,Female,4,20,Urban,Medicaid
+7192,2709,2,3,3,1,2,39,Male,5,3,Rural ,Commercial
+7933,2710,0,1,2,0,3,33,Female,1,4,Rural ,Commercial
+7050,2711,0,3,0,0,2,34,Male,2,3,Rural ,Commercial
+7603,2712,1,1,3,0,2,43,Male,0,5,Rural ,Commercial
+8827,2713,2,3,2,1,1,37,Female,1,12,Urban,Medicaid
+8327,2714,1,1,2,1,2,37,Male,1,20,Urban,Medicaid
+8036,2715,1,0,0,1,3,42,Male,2,16,Urban,Medicaid
+8822,2716,1,3,0,0,2,38,Female,4,12,Rural ,Commercial
+8752,2717,1,1,1,0,1,35,Female,4,15,Urban,Commercial
+7962,2718,3,2,2,1,1,28,Male,0,4,Urban,Medicaid
+8102,2719,3,2,3,0,2,45,Female,3,14,Rural ,Commercial
+7653,2720,0,3,2,1,0,28,Female,0,5,Urban,Commercial
+7076,2721,1,3,0,1,2,35,Male,3,7,Urban,Commercial
+7080,2722,3,3,0,0,2,44,Female,1,1,Urban,Commercial
+8105,2723,2,0,0,1,3,33,Male,1,14,Rural ,Medicaid
+7435,2724,0,3,2,0,3,33,Female,4,6,Urban,Medicaid
+7632,2725,0,2,0,1,3,32,Male,1,5,Rural ,Commercial
+8362,2726,1,3,2,1,1,27,Female,0,20,Urban,Medicaid
+7851,2727,2,3,0,1,3,29,Male,4,9,Rural ,Medicaid
+7624,2728,0,2,2,0,1,35,Male,3,5,Urban,Commercial
+8850,2729,0,0,0,1,1,37,Female,0,1,Rural ,Medicaid
+8018,2730,2,1,1,0,2,38,Male,2,14,Rural ,Medicaid
+7091,2731,2,3,1,1,1,34,Male,3,7,Urban,Medicaid
+7728,2732,3,0,1,1,0,28,Male,4,10,Urban,Commercial
+7939,2733,0,1,0,1,1,27,Female,4,8,Rural ,Medicaid
+8006,2734,0,2,1,0,2,42,Female,1,15,Urban,Medicaid
+8401,2735,0,3,0,1,0,29,Female,3,18,Rural ,Medicaid
+7395,2736,3,2,3,0,3,42,Female,4,2,Rural ,Medicaid
+8618,2737,2,0,3,0,1,45,Female,3,21,Rural ,Commercial
+7052,2738,1,2,3,1,3,42,Female,5,3,Rural ,Commercial
+8002,2739,2,2,3,1,2,39,Male,5,14,Urban,Commercial
+8528,2740,3,0,1,0,1,28,Male,3,1,Rural ,Commercial
+8629,2741,2,1,3,1,1,33,Male,1,21,Urban,Medicaid
+8348,2742,0,3,0,1,3,30,Male,0,20,Urban,Medicaid
+8350,2743,2,1,0,0,1,41,Female,2,18,Rural ,Medicaid
+7081,2744,1,2,3,1,1,42,Female,0,7,Urban,Medicaid
+7543,2745,2,2,1,1,0,32,Male,0,6,Urban,Medicaid
+8904,2746,1,0,1,0,3,30,Female,4,1,Rural ,Medicaid
+8405,2747,3,3,3,1,2,34,Male,2,18,Rural ,Medicaid
+8852,2748,3,3,2,1,0,31,Male,2,1,Urban,Commercial
+8023,2749,3,2,1,0,1,27,Female,4,13,Urban,Medicaid
+7032,2750,1,3,3,0,2,39,Female,5,2,Rural ,Medicaid
+7976,2751,0,1,2,1,1,34,Female,1,4,Urban,Commercial
+8032,2752,2,3,3,0,2,40,Female,2,17,Rural ,Commercial
+8054,2753,0,0,0,0,1,33,Female,0,16,Urban,Commercial
+7510,2754,2,0,3,0,2,39,Female,5,6,Rural ,Commercial
+7065,2755,3,3,1,1,3,36,Female,5,7,Urban,Commercial
+7801,2756,3,1,2,0,1,44,Male,1,4,Rural ,Commercial
+7512,2757,2,1,2,1,2,33,Male,5,6,Rural ,Medicaid
+7701,2758,3,0,1,1,2,27,Male,2,10,Rural ,Medicaid
+7847,2759,1,0,2,0,3,39,Male,5,4,Urban,Commercial
+8005,2760,2,0,2,1,3,42,Male,4,15,Rural ,Commercial
+8830,2761,2,2,3,0,3,39,Female,5,1,Urban,Commercial
+7753,2762,1,2,3,1,0,28,Female,0,10,Rural ,Commercial
+7438,2763,2,2,3,1,2,28,Male,5,4,Urban,Commercial
+8054,2764,0,2,2,1,1,42,Male,4,16,Rural ,Commercial
+8032,2765,3,0,0,1,3,28,Female,5,17,Rural ,Medicaid
+8025,2766,2,0,0,1,2,30,Female,5,17,Urban,Commercial
+7481,2767,3,3,1,1,0,45,Male,1,5,Urban,Commercial
+8214,2768,0,2,0,1,3,35,Female,4,19,Rural ,Medicaid
+7763,2769,2,2,1,0,0,30,Female,5,10,Urban,Medicaid
+7093,2770,3,0,0,1,3,31,Female,4,2,Rural ,Medicaid
+7747,2771,3,3,1,1,3,31,Male,0,10,Urban,Medicaid
+8609,2772,0,2,3,1,0,42,Female,5,21,Rural ,Commercial
+7461,2773,1,0,1,1,1,42,Male,4,9,Urban,Medicaid
+8401,2774,1,1,3,0,3,33,Male,2,18,Urban,Commercial
+8038,2775,0,2,2,1,3,36,Male,4,13,Rural ,Commercial
+7840,2776,2,2,1,1,2,37,Female,3,11,Rural ,Medicaid
+7646,2777,0,0,3,0,1,34,Male,1,5,Urban,Commercial
+7029,2778,2,0,0,1,3,37,Female,0,2,Rural ,Commercial
+8501,2779,2,3,2,0,1,30,Female,0,10,Rural ,Medicaid
+8853,2780,1,3,3,0,1,34,Female,2,8,Rural ,Commercial
+7675,2781,1,3,0,1,1,44,Female,0,5,Urban,Medicaid
+7652,2782,1,3,3,1,2,41,Male,1,5,Rural ,Medicaid
+8504,2783,1,1,2,0,2,36,Male,3,8,Rural ,Medicaid
+7524,2784,0,3,3,1,2,41,Female,4,6,Rural ,Medicaid
+7193,2785,2,3,1,1,2,40,Male,1,3,Urban,Medicaid
+7019,2786,2,2,0,0,3,31,Male,3,3,Urban,Medicaid
+8231,2787,1,3,0,1,1,27,Male,3,18,Urban,Commercial
+7806,2788,0,0,2,0,0,28,Female,0,4,Rural ,Commercial
+8608,2789,2,1,0,0,2,36,Female,2,21,Urban,Commercial
+7502,2790,1,0,0,1,0,27,Female,4,6,Urban,Commercial
+8205,2791,3,2,0,1,1,28,Female,5,18,Rural ,Medicaid
+7047,2792,3,2,3,1,2,42,Female,2,2,Urban,Commercial
+8875,2793,0,0,0,1,2,45,Male,0,8,Rural ,Commercial
+7856,2794,0,0,1,0,2,29,Female,4,4,Rural ,Medicaid
+7096,2795,1,2,2,1,3,44,Female,1,2,Rural ,Medicaid
+7010,2796,1,2,0,1,2,37,Male,0,5,Urban,Medicaid
+7676,2797,0,3,1,1,1,33,Male,3,5,Urban,Medicaid
+8005,2798,2,3,3,1,0,41,Female,2,15,Rural ,Commercial
+8039,2799,0,0,2,0,2,42,Male,1,17,Rural ,Commercial
+8220,2800,1,3,1,0,1,27,Female,4,18,Urban,Commercial
+7605,2801,1,3,0,1,3,37,Male,3,5,Urban,Medicaid
+7066,2802,0,0,0,1,3,29,Female,1,7,Rural ,Commercial
+8224,2803,3,0,2,1,0,45,Male,4,16,Urban,Medicaid
+7417,2804,2,2,2,1,1,32,Female,2,5,Urban,Medicaid
+8526,2805,0,0,2,1,3,31,Male,0,10,Urban,Commercial
+8724,2806,0,0,2,0,3,40,Female,3,15,Urban,Medicaid
+7627,2807,2,1,1,0,3,35,Female,1,5,Rural ,Medicaid
+7104,2808,2,0,1,1,2,44,Female,3,3,Urban,Commercial
+8054,2809,0,2,1,1,0,28,Female,2,16,Rural ,Medicaid
+8080,2810,1,3,0,0,1,44,Female,0,17,Rural ,Commercial
+8009,2811,0,3,2,0,3,40,Female,2,14,Urban,Commercial
+7003,2812,2,1,0,0,2,33,Male,3,3,Urban,Commercial
+7203,2813,3,2,1,1,2,43,Male,2,7,Urban,Commercial
+7035,2814,3,0,2,0,0,31,Male,5,4,Rural ,Commercial
+7718,2815,1,2,1,0,2,34,Male,1,10,Rural ,Medicaid
+7999,2816,2,1,0,1,0,27,Male,2,4,Rural ,Medicaid
+7086,2817,0,0,0,0,3,32,Male,4,2,Urban,Medicaid
+7509,2818,3,2,0,1,0,45,Male,5,6,Urban,Medicaid
+7860,2819,2,3,0,1,1,28,Female,1,9,Rural ,Medicaid
+8248,2820,0,0,1,1,1,35,Male,2,19,Rural ,Medicaid
+7054,2821,0,1,2,0,1,30,Male,2,4,Rural ,Commercial
+7921,2822,1,2,2,1,1,36,Male,4,8,Rural ,Medicaid
+7106,2823,0,0,0,1,2,42,Female,5,3,Rural ,Commercial
+8066,2824,1,2,2,0,2,36,Male,4,17,Rural ,Commercial
+7030,2825,2,1,1,0,0,33,Male,1,2,Rural ,Medicaid
+7822,2826,2,2,1,0,0,45,Female,4,9,Rural ,Medicaid
+8559,2827,2,0,0,1,2,37,Female,5,12,Rural ,Medicaid
+7495,2828,0,2,2,0,0,33,Male,5,5,Urban,Commercial
+8045,2829,2,0,1,1,1,41,Female,2,14,Urban,Medicaid
+8310,2830,1,2,1,0,2,40,Male,3,18,Rural ,Commercial
+8557,2831,3,3,2,0,1,35,Female,0,12,Urban,Commercial
+7657,2832,1,3,2,0,1,45,Female,2,5,Urban,Commercial
+8068,2833,3,1,0,0,2,42,Female,2,16,Rural ,Commercial
+8561,2834,2,2,2,0,2,37,Female,4,21,Urban,Commercial
+8242,2835,1,1,0,1,1,42,Female,4,19,Rural ,Commercial
+7675,2836,2,2,0,1,1,44,Female,2,5,Urban,Commercial
+7080,2837,2,0,3,0,0,34,Male,1,1,Rural ,Medicaid
+8316,2838,1,2,2,1,0,38,Male,2,20,Urban,Commercial
+7070,2839,1,0,2,0,2,39,Male,5,5,Urban,Medicaid
+8053,2840,3,0,3,1,3,40,Male,5,16,Rural ,Commercial
+7628,2841,2,2,0,1,1,28,Male,4,5,Urban,Commercial
+7423,2842,3,1,1,0,3,39,Male,5,5,Urban,Commercial
+8742,2843,1,1,2,0,2,34,Female,3,15,Rural ,Medicaid
+7511,2844,2,0,1,1,3,38,Female,0,6,Rural ,Medicaid
+7072,2845,2,2,2,0,0,36,Female,4,5,Rural ,Commercial
+7734,2846,0,0,2,1,1,32,Female,1,10,Urban,Medicaid
+7512,2847,1,0,0,0,3,34,Female,1,6,Rural ,Medicaid
+7763,2848,1,0,0,0,3,32,Female,0,10,Rural ,Medicaid
+7458,2849,0,2,2,0,0,28,Female,2,5,Rural ,Medicaid
+8730,2850,1,1,2,1,1,39,Female,4,10,Rural ,Commercial
+7418,2851,2,0,1,1,3,33,Male,0,9,Rural ,Medicaid
+8105,2852,3,3,3,1,1,38,Male,0,14,Rural ,Commercial
+7097,2853,0,1,0,1,1,44,Female,0,2,Urban,Medicaid
+8540,2854,1,0,3,1,3,33,Female,1,21,Urban,Medicaid
+7646,2855,0,3,0,0,3,34,Female,0,5,Rural ,Medicaid
+7003,2856,1,2,3,1,2,38,Female,3,3,Rural ,Commercial
+8060,2857,3,1,3,0,1,42,Female,1,16,Rural ,Commercial
+7058,2858,2,0,0,1,0,32,Male,4,4,Urban,Medicaid
+7878,2859,0,1,1,1,1,42,Female,0,4,Rural ,Commercial
+7755,2860,2,0,2,1,3,31,Male,3,10,Urban,Commercial
+8270,2861,1,0,3,1,2,35,Female,3,19,Rural ,Medicaid
+8648,2862,0,1,3,1,0,29,Male,5,21,Rural ,Medicaid
+7543,2863,0,2,3,0,0,34,Female,4,6,Rural ,Commercial
+7204,2864,0,2,0,1,3,34,Male,3,7,Rural ,Medicaid
+7401,2865,0,1,2,0,1,29,Male,1,5,Rural ,Medicaid
+8556,2866,3,3,3,1,2,37,Male,3,12,Rural ,Medicaid
+7512,2867,3,2,3,1,2,30,Male,5,6,Rural ,Commercial
+8230,2868,0,1,3,1,0,43,Male,4,19,Urban,Commercial
+7758,2869,2,3,2,0,2,42,Male,1,10,Urban,Commercial
+7660,2870,0,3,1,0,2,42,Female,0,5,Rural ,Medicaid
+8528,2871,1,2,3,0,0,39,Female,0,1,Urban,Commercial
+7853,2872,3,1,0,1,2,28,Female,5,4,Rural ,Medicaid
+8611,2873,2,1,3,0,0,28,Female,5,21,Rural ,Medicaid
+7676,2874,3,0,1,1,3,33,Male,2,5,Urban,Commercial
+8738,2875,2,3,1,1,3,30,Male,3,15,Rural ,Medicaid
+8087,2876,0,1,3,0,0,31,Male,5,15,Rural ,Commercial
+8084,2877,1,1,2,1,3,40,Male,1,14,Urban,Medicaid
+7927,2878,0,2,1,0,1,33,Female,2,4,Urban,Commercial
+8073,2879,0,2,2,0,1,40,Female,4,16,Urban,Commercial
+8740,2880,2,2,3,1,2,32,Male,0,15,Rural ,Medicaid
+8108,2881,2,0,2,1,3,40,Female,5,14,Urban,Medicaid
+8350,2882,0,2,2,0,2,29,Male,5,18,Rural ,Medicaid
+7737,2883,3,3,2,0,2,39,Female,4,10,Urban,Commercial
+7845,2884,0,0,2,1,3,36,Female,5,4,Rural ,Medicaid
+8011,2885,0,0,2,1,3,42,Female,0,16,Urban,Commercial
+7876,2886,0,0,3,0,3,41,Male,4,4,Rural ,Medicaid
+7823,2887,1,0,3,0,2,29,Female,2,11,Rural ,Medicaid
+7043,2888,2,1,1,1,1,39,Male,3,3,Urban,Medicaid
+8046,2889,0,0,3,0,0,41,Male,5,16,Urban,Medicaid
+7195,2890,0,3,2,1,3,27,Male,5,3,Urban,Medicaid
+7395,2891,0,1,1,0,1,39,Male,1,2,Rural ,Medicaid
+8640,2892,1,1,1,1,1,28,Male,1,16,Urban,Medicaid
+8836,2893,3,0,2,1,3,31,Male,1,8,Urban,Commercial
+7201,2894,1,0,3,0,3,43,Male,4,7,Urban,Medicaid
+7438,2895,0,0,3,1,2,34,Female,2,4,Urban,Medicaid
+7661,2896,1,2,3,1,2,39,Female,4,5,Rural ,Commercial
+8087,2897,1,3,0,1,2,30,Male,4,15,Rural ,Medicaid
+7432,2898,3,0,1,0,2,38,Female,0,5,Urban,Medicaid
+8220,2899,0,0,0,1,0,39,Female,4,18,Rural ,Medicaid
+7827,2900,0,0,1,1,1,29,Female,1,9,Urban,Medicaid
+7748,2901,0,1,3,0,0,42,Male,5,10,Rural ,Medicaid
+7936,2902,2,0,3,1,3,38,Male,5,4,Rural ,Medicaid
+8056,2903,1,2,1,1,0,43,Male,2,17,Rural ,Commercial
+8311,2904,1,3,3,0,3,27,Female,2,20,Urban,Medicaid
+8501,2905,2,3,3,0,3,38,Male,3,10,Rural ,Commercial
+8323,2906,1,3,1,0,3,45,Male,5,20,Urban,Commercial
+8831,2907,2,1,1,1,0,38,Male,1,1,Rural ,Medicaid
+8541,2908,3,0,3,0,3,33,Male,0,21,Urban,Commercial
+7641,2909,1,3,3,0,0,39,Male,2,5,Urban,Medicaid
+7875,2910,0,3,2,1,3,30,Male,0,9,Rural ,Medicaid
+7710,2911,2,2,2,0,0,34,Male,0,10,Urban,Medicaid
+7939,2912,3,0,2,0,3,42,Male,3,8,Urban,Medicaid
+8243,2913,0,2,3,1,1,36,Female,3,19,Rural ,Medicaid
+7699,2914,1,3,0,1,0,42,Female,1,5,Rural ,Commercial
+8270,2915,3,1,2,0,1,38,Male,4,19,Urban,Commercial
+7423,2916,1,2,3,0,0,29,Female,5,5,Urban,Commercial
+8603,2917,0,1,3,0,3,34,Male,0,21,Rural ,Commercial
+7727,2918,1,1,2,0,1,40,Female,1,10,Urban,Commercial
+7676,2919,0,0,1,0,2,29,Female,0,5,Rural ,Medicaid
+7831,2920,2,1,1,0,3,31,Female,2,11,Rural ,Commercial
+7922,2921,0,2,2,1,2,34,Female,3,7,Urban,Medicaid
+7073,2922,1,3,0,1,1,37,Female,2,5,Rural ,Commercial
+7073,2923,3,1,0,0,0,33,Female,3,5,Urban,Medicaid
+7631,2924,2,2,1,1,0,35,Male,5,5,Rural ,Medicaid
+8043,2925,0,2,2,1,3,34,Male,4,14,Urban,Commercial
+7061,2926,2,3,0,1,3,34,Male,3,7,Rural ,Commercial
+8535,2927,0,2,0,1,1,31,Female,2,10,Urban,Commercial
+7423,2928,1,2,3,1,0,36,Female,4,5,Rural ,Commercial
+7462,2929,2,2,2,0,1,45,Male,2,9,Rural ,Medicaid
+7203,2930,2,0,2,1,3,33,Male,0,7,Rural ,Medicaid
+8251,2931,2,1,1,0,1,38,Male,4,19,Urban,Commercial
+7732,2932,3,1,0,0,0,45,Female,5,10,Rural ,Commercial
+7927,2933,1,3,3,1,2,32,Female,0,4,Urban,Medicaid
+8065,2934,1,1,3,0,3,30,Male,4,16,Rural ,Commercial
+8887,2935,0,3,0,1,3,37,Female,1,12,Rural ,Medicaid
+7092,2936,3,2,2,1,2,28,Male,3,7,Urban,Medicaid
+7087,2937,0,1,3,1,3,43,Female,3,2,Rural ,Commercial
+7017,2938,2,2,1,1,0,36,Male,2,3,Rural ,Medicaid
+8210,2939,1,2,2,0,3,44,Female,0,19,Urban,Medicaid
+8221,2940,0,0,2,0,1,35,Female,5,18,Urban,Medicaid
+7641,2941,2,2,3,0,1,29,Male,0,5,Rural ,Commercial
+7019,2942,3,2,3,0,0,27,Male,2,3,Urban,Commercial
+7843,2943,0,1,3,1,2,35,Female,0,9,Urban,Medicaid
+8870,2944,0,2,2,0,2,29,Female,3,12,Rural ,Medicaid
+8561,2945,2,1,1,0,1,31,Female,2,21,Rural ,Medicaid
+7755,2946,3,3,0,1,0,44,Female,1,10,Rural ,Commercial
+7422,2947,2,3,3,1,1,43,Male,3,9,Rural ,Commercial
+7662,2948,1,1,3,1,1,31,Male,3,5,Rural ,Medicaid
+7064,2949,3,2,3,0,1,29,Male,0,1,Urban,Commercial
+8536,2950,2,1,0,0,3,28,Male,0,1,Rural ,Commercial
+7710,2951,2,2,3,0,2,42,Male,5,10,Rural ,Medicaid
+7827,2952,2,2,2,0,1,33,Female,3,9,Urban,Medicaid
+7802,2953,1,0,3,0,3,36,Male,1,4,Urban,Medicaid
+8732,2954,1,1,3,0,0,31,Female,1,15,Urban,Commercial
+8989,2955,0,3,0,1,1,36,Male,3,1,Urban,Medicaid
+7058,2956,3,0,1,1,1,39,Female,0,4,Rural ,Medicaid
+7109,2957,3,0,3,1,3,34,Male,2,3,Urban,Commercial
+8619,2958,0,3,0,1,0,36,Male,4,21,Urban,Commercial
+7510,2959,0,2,0,1,3,28,Female,4,6,Rural ,Commercial
+7480,2960,3,1,3,0,1,40,Female,5,6,Urban,Commercial
+8885,2961,3,0,2,1,0,33,Female,3,12,Rural ,Medicaid
+8620,2962,3,2,1,0,1,38,Female,1,21,Urban,Medicaid
+8069,2963,2,1,2,1,3,42,Female,5,13,Rural ,Medicaid
+7090,2964,2,2,3,1,3,38,Female,1,7,Urban,Commercial
+8340,2965,1,1,2,1,1,44,Female,1,18,Urban,Commercial
+8042,2966,3,0,2,1,0,27,Male,0,16,Urban,Commercial
+8213,2967,3,3,1,1,2,45,Female,3,18,Rural ,Medicaid
+7962,2968,1,0,1,1,3,38,Male,5,4,Urban,Commercial
+8741,2969,0,0,2,1,1,29,Female,1,15,Urban,Medicaid
+8901,2970,3,0,0,0,3,31,Female,4,1,Urban,Commercial
+8350,2971,1,2,2,1,1,35,Male,0,18,Urban,Medicaid
+7901,2972,2,2,2,0,3,41,Female,1,7,Rural ,Commercial
+8543,2973,3,1,2,1,2,30,Male,2,21,Rural ,Medicaid
+7462,2974,0,2,2,1,0,29,Female,2,9,Urban,Medicaid
+7869,2975,1,2,3,1,0,43,Male,4,4,Rural ,Commercial
+8212,2976,2,3,0,0,0,45,Female,3,19,Urban,Medicaid
+8324,2977,3,0,2,0,1,42,Female,2,20,Urban,Medicaid
+8342,2978,1,1,0,0,0,35,Male,5,18,Urban,Commercial
+8807,2979,2,1,3,1,1,45,Male,3,8,Rural ,Commercial
+7827,2980,3,3,2,1,1,31,Female,0,9,Urban,Medicaid
+7856,2981,2,1,1,1,0,38,Female,4,4,Rural ,Commercial
+7922,2982,3,0,3,1,0,41,Female,4,7,Urban,Medicaid
+8502,2983,1,2,2,0,0,27,Male,0,8,Rural ,Commercial
+7827,2984,0,3,0,0,0,28,Male,5,9,Rural ,Medicaid
+7510,2985,1,3,1,1,1,45,Male,5,6,Rural ,Commercial
+7103,2986,1,1,1,1,2,41,Female,1,3,Urban,Medicaid
+7107,2987,1,2,2,0,0,39,Male,4,3,Rural ,Commercial
+8628,2988,0,1,0,1,2,28,Female,5,21,Urban,Medicaid
+7015,2989,0,2,0,0,2,30,Male,1,6,Rural ,Commercial
+7407,2990,1,3,1,0,1,40,Male,0,5,Rural ,Medicaid
+7976,2991,3,0,1,1,1,31,Female,4,4,Urban,Medicaid
+8820,2992,2,2,1,0,2,45,Female,4,1,Urban,Commercial
+7060,2993,2,2,1,1,1,27,Male,3,7,Urban,Medicaid
+7938,2994,3,2,2,0,2,38,Female,5,8,Rural ,Medicaid
+8933,2995,0,2,0,0,3,43,Female,4,1,Rural ,Medicaid
+8740,2996,2,3,3,1,1,39,Female,0,15,Rural ,Commercial
+7010,2997,2,1,1,1,1,35,Male,2,5,Urban,Medicaid
+7728,2998,0,3,1,0,3,29,Female,2,10,Urban,Medicaid
+8242,2999,0,2,1,0,2,45,Male,1,19,Rural ,Medicaid
